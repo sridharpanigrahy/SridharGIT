@@ -233,8 +233,3 @@ To get handy data : https://www.mockaroo.com/
 To convert json to pojo : https://www.jsonschema2pojo.org/
 JSON Place Holder to get JSON data : https://jsonplaceholder.typicode.com/
 
-
-GitHub
-=====
-sridharpanigrahy@gmail.com
-Sridhar@321
