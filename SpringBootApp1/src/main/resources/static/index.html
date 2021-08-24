@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Spring Boot Application Demo1</title>
+</head>
+<body>
+<center><h4> This is home page for Spring Boot Application-1. </h4></center>
+<b>H2 Database</b><br/>
+<a href="http://localhost:8080/spring1/h2">H2 Database</a><br/><br/>
+
+<b>Actuator</b><br/>
+<a href="http://localhost:8080/spring1/actuator">Spring Actuator</a><br/><br/>
+
+<b>SWAGGER</b><br/>
+<a href="http://localhost:8080/spring1/swagger-ui.html">Swagger</a><br/><br/>
+
+<b>Greetings</b><br/>
+<a href="http://localhost:8080/spring1/hello">Hello</a><br/>
+<a href="http://localhost:8080/spring1/greetings">Greeting Default</a><br/>
+<a href="http://localhost:8080/spring1/greetings?content=Sridhar">Greeting with Value</a><br/><br/>
+
+<b>Employees</b><br/>
+<a href="http://localhost:8080/spring1/employees">Employee List</a><br/>
+<a href="http://localhost:8080/spring1/employees/1">Employee By Id - Id Present</a><br/>
+<a href="http://localhost:8080/spring1/employees/10">Employee By Id - Id Not Present</a><br/>
+<a href="employees/fname/ABC1">Find Emp By FName</a><br/>
+<a href="employees/lname/XYZ3">Find Emp By LName</a><br/>
+<a href="employees/name/ABC2/XYZ2">Find Emp By First and Last Name</a><br/>
+<a href="employees/update/1/ABC1000">Update Emp First Name from ABC1 to ABC1000</a><br/>
+
+<a href="http://localhost:8080/spring1/employees/transaction/PASS">Create Employee Transaction Pass</a><br/>
+<a href="http://localhost:8080/spring1/employees/transaction/FAIL">Create Employee Transaction Fail</a><br/><br/>
+
+<b>Async Demo</b><br/>
+<a href="http://localhost:8080/spring1/getEmpGreetingsUsingAsync">Employee Greeting Using Async</a><br/><br/>
+
+<b>Spring Retry Demo</b><br/>
+<a href="http://localhost:8080/spring1/getNumberUsingSpringRetry1">Get Number UsingSpring Retry1</a><br/>
+<a href="http://localhost:8080/spring1/getNumberUsingSpringRetry2">Get Number UsingSpring Retry2</a><br/><br/>
+
+<b>Spring Security - Auth Demo</b><br/>
+<a href="http://localhost:8080/spring1/admin">Admin Page Access</a><br/>
+<a href="http://localhost:8080/spring1/user">User Page Access</a><br/>
+<a href="http://localhost:8080/spring1/dba">DBA Page Access</a><br/>
+<a href="http://localhost:8080/spring1/logout">Logout</a><br/><br/>
+
+<b>Spring Caching Demo</b><br/>
+<a href="http://localhost:8080/spring1/productList">ProductList</a><br/>
+<a href="http://localhost:8080/spring1/product/1">Product By Id</a><br/>
+<a href="http://localhost:8080/spring1/product_delete/3">Product Delete</a><br/><br/>
+
+<b>Spring Caching Demo</b><br/>
+<a href="SpringBatchDemo/convert_from_csv_database">Spring Batch CSV to Database</a><br/><br/>
+
+<b>Spring Property Fetch Demo</b><br/>
+<a href="getPropertiesFromErrorFile">Property Fetch Demo</a><br/>
+
+
+</body>
+</html>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<company>
+    <name>ABCDEFG Enterprise</name>
+    <staff id="1">
+        <name>ACM1</name>
+        <salary>8000</salary>
+        <bioData>support</bioData>
+        <joinDate>2020-08-08</joinDate>
+    </staff>
+    <staff id="2">
+        <name>ACM2</name>
+        <salary>9000</salary>
+        <bioData>developer</bioData>
+        <joinDate>2021-02-08</joinDate>
+    </staff>
+</company>
