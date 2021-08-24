@@ -293,6 +293,7 @@ public class BatchConfigCSVToDB
             personList.stream().forEach(System.out::println);
         };
 
+        // It delegates the writing operations to other 2 writers which are passed as list.
         compositeItemWriter.setDelegates(Arrays.asList(personJdbcBatchItemWriter, consoleItemWriter));
         return compositeItemWriter;
     }

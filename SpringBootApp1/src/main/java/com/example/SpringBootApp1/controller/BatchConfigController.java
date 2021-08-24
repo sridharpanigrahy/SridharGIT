@@ -31,7 +31,9 @@ public class BatchConfigController
         /* Adding the JobId as parameter so that the Job can be run 2nd time as well. else the 2nd ron of job will fail with error 'Job Already Completed' */
         jobParametersBuilder.addString("JobId", String.valueOf(System.currentTimeMillis()));
 
+        // Job Parameters preparations
         JobParameters jobParameters = jobParametersBuilder.toJobParameters();
+        // Run the job using JobLaurence
         JobExecution jobExecution = jobLauncher.run(job, jobParameters);
 
         return ResponseEntity.ok(jobExecution.getStatus());
