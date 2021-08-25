@@ -79,7 +79,6 @@ Java Tutorial URLS
 	- https://www.javainuse.com/spring/boot_security_jdbc_authentication
 
 	*Spring Boot and React*
-	
         - https://github.com/spring-guides/tut-react-and-spring-data-rest
 	- https://spring.io/guides/tutorials/react-and-spring-data-rest/
 	
@@ -200,6 +199,8 @@ Java Tutorial URLS
 Youtube Tutorial
 ===================
 [Daily code Buffer](https://www.youtube.com/c/DailyCodeBuffer/videos)
+[Java Techie](https://www.youtube.com/c/JavaTechie/playlists)
+
 *Daily Code Buffer*
 - Spring Boot				: https://www.youtube.com/watch?v=c3gKseNAs9w  *
 - Spring Data JPA 			: https://www.youtube.com/watch?v=XszpXoII9Sg&t=109s
