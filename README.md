@@ -58,7 +58,7 @@ Java Tutorial URLS
 	- https://github.com/bhaskars-repo/SB-Data-JPA
 			
 	*Swagger Addition*
-         - https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
+	- https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
 	
 	*Dev Tools*
 	- https://docs.spring.io/spring-boot/docs/current/reference/html/using.html#using.devtools
