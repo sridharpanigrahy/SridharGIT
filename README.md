@@ -64,22 +64,22 @@ Java Tutorial URLS
 	- https://docs.spring.io/spring-boot/docs/current/reference/html/using.html#using.devtools
 	
 	*Async*
-        - https://howtodoinjava.com/spring-boot2/rest/enableasync-async-controller/
+    - https://howtodoinjava.com/spring-boot2/rest/enableasync-async-controller/
 	
 	*Transaction Mgmt*
-        - https://dzone.com/articles/bountyspring-transactional-management
+    - https://dzone.com/articles/bountyspring-transactional-management
 	- https://dzone.com/articles/spring-transaction-propagation
 	- https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth
 	
 	*Spring Security*
-        - https://www.javaguides.net/p/spring-security-tutorial.html
+    - https://www.javaguides.net/p/spring-security-tutorial.html
 	- https://mkyong.com/spring-security/spring-security-form-login-using-database/
 	- https://www.javaguides.net/2019/09/user-account-registration-and-login.html
 	- https://mkyong.com/spring-security/spring-security-form-login-using-database/
 	- https://www.javainuse.com/spring/boot_security_jdbc_authentication
 
 	*Spring Boot and React*
-        - https://github.com/spring-guides/tut-react-and-spring-data-rest
+    - https://github.com/spring-guides/tut-react-and-spring-data-rest
 	- https://spring.io/guides/tutorials/react-and-spring-data-rest/
 	
 	*Spring Batch-in-Action*
@@ -92,20 +92,19 @@ Java Tutorial URLS
 	- https://www.polarsparc.com/xhtml/SpringIntegration-01.html
 	- https://www.polarsparc.com/xhtml/SpringIntegration-02.html
 	- https://www.polarsparc.com/xhtml/SpringIntegration-03.html
-        - https://www.polarsparc.com/xhtml/SpringIntegration-04.html
+    - https://www.polarsparc.com/xhtml/SpringIntegration-04.html
 	- https://www.polarsparc.com/xhtml/SpringIntegration-05.html
-        - https://www.polarsparc.com/xhtml/SpringIntegration-06.html
+    - https://www.polarsparc.com/xhtml/SpringIntegration-06.html
 	- https://www.polarsparc.com/xhtml/SpringIntegration-07.html
 	- https://www.polarsparc.com/xhtml/SpringIntegration-08.html
-	- 
 	- https://docs.spring.io/spring-integration/reference/html/file.html
 	- https://github.com/bhaskars-repo/SpringIntegration
 	- https://github.com/spring-projects/spring-integration-samples
 		
 	- https://www.baeldung.com/spring-integration
 		
-       *Hibernate*
-        - https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-with-hibernate-example/
+    *Hibernate*
+    - https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-with-hibernate-example/
 		
 *Design Patterns*
 - https://www.javacodegeeks.com/2015/09/java-design-patterns.html
@@ -202,23 +201,22 @@ Youtube Tutorial
 [Java Techie](https://www.youtube.com/c/JavaTechie/playlists)
 
 *Daily Code Buffer*
-- Spring Boot				: https://www.youtube.com/watch?v=c3gKseNAs9w  *
-- Spring Data JPA 			: https://www.youtube.com/watch?v=XszpXoII9Sg&t=109s
-- Microservices using SpringBoot 	: https://www.youtube.com/watch?v=BnknNTN8icw&t=2754s
-- Spring Boot Logging 			: https://www.youtube.com/watch?v=5a65m_8n3q8&list=RDCMUC4VZwhJ4T42SVHy9QbZ5rKw&index=14
+- [Spring Boot](https://www.youtube.com/watch?v=c3gKseNAs9w)
+- [Spring Data JPA](https://www.youtube.com/watch?v=XszpXoII9Sg&t=109s)
+- [Microservices using SpringBoot](https://www.youtube.com/watch?v=BnknNTN8icw&t=2754s)
+- [Spring Boot Logging](https://www.youtube.com/watch?v=5a65m_8n3q8&list=RDCMUC4VZwhJ4T42SVHy9QbZ5rKw&index=14)
 	
 	*GitHub*
 	- https://github.com/dailycodebuffer/Spring-MVC-Tutorials
 	- https://github.com/shabbirdwd53
 	
 *Java Techie*
-- All Videos : https://www.youtube.com/c/JavaTechie/playlists
-- How spring Boot works internally 1 	: https://www.youtube.com/watch?v=qlygg_H1M20&t=114s
-- How spring Boot works internally 1 	: https://www.youtube.com/watch?v=TWK7-gzTiHk
-- How does Spring Security Authentication work internally 1: https://www.youtube.com/watch?v=1ERV-6cz2xk&t=31s
-- How does Spring Security Authentication work internally 2:	https://www.youtube.com/watch?v=caCJAJC41Rk
-- How to setup JDBC authentication with Spring Security from scratch : https://www.youtube.com/watch?v=LKvrFltAgCQ
-- How to write a custom login page in Spring Security and Spring Boot: https://www.youtube.com/watch?v=yoTohM2jYhs&list=RDCMUCYt1sfh5464XaDBH0oH_o7Q&index=5
+- [How spring Boot works internally 1](https://www.youtube.com/watch?v=qlygg_H1M20&t=114s)
+- [How spring Boot works internally 1](https://www.youtube.com/watch?v=TWK7-gzTiHk)
+- [How does Spring Security Authentication work internally 1](https://www.youtube.com/watch?v=1ERV-6cz2xk&t=31s)
+- [How does Spring Security Authentication work internally 2](https://www.youtube.com/watch?v=caCJAJC41Rk)
+- [How to setup JDBC authentication with Spring Security from scratch](https://www.youtube.com/watch?v=LKvrFltAgCQ)
+- [How to write a custom login page in Spring Security and Spring Boot](https://www.youtube.com/watch?v=yoTohM2jYhs&list=RDCMUCYt1sfh5464XaDBH0oH_o7Q&index=5)
 	
 	*GitHub*
 	- https://github.com/orgs/Java-Techie-jt/repositories
@@ -245,4 +243,3 @@ Tools
 - JSON Place Holder to get JSON data : https://jsonplaceholder.typicode.com/
 - Read Me Creation : https://dillinger.io/
 - Chat Sheet : https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
-
