@@ -2,6 +2,7 @@ Java Tutorial URLS
 ==================
 *Basics*
 - https://www.polarsparc.com/xhtml/JavaAnnotations.html
+
 *Generics*
 - https://www.baeldung.com/java-generics
 - https://www.baeldung.com/java-generics-interview-questions
@@ -57,28 +58,28 @@ Java Tutorial URLS
 	- https://github.com/bhaskars-repo/SB-Data-JPA
 			
 	*Swagger Addition*
-    - https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
+         - https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
 	
 	*Dev Tools*
 	- https://docs.spring.io/spring-boot/docs/current/reference/html/using.html#using.devtools
 	
 	*Async*
-    - https://howtodoinjava.com/spring-boot2/rest/enableasync-async-controller/
+        - https://howtodoinjava.com/spring-boot2/rest/enableasync-async-controller/
 	
-	Transaction Mgmt*
-    - https://dzone.com/articles/bountyspring-transactional-management
+	*Transaction Mgmt*
+        - https://dzone.com/articles/bountyspring-transactional-management
 	- https://dzone.com/articles/spring-transaction-propagation
 	- https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth
 	
 	*Spring Security*
-    - https://www.javaguides.net/p/spring-security-tutorial.html
+        - https://www.javaguides.net/p/spring-security-tutorial.html
 	- https://mkyong.com/spring-security/spring-security-form-login-using-database/
 	- https://www.javaguides.net/2019/09/user-account-registration-and-login.html
 	- https://mkyong.com/spring-security/spring-security-form-login-using-database/
 	- https://www.javainuse.com/spring/boot_security_jdbc_authentication
 
 	*Spring Boot and React*
-    - https://github.com/spring-guides/tut-react-and-spring-data-rest
+        - https://github.com/spring-guides/tut-react-and-spring-data-rest
 	- https://spring.io/guides/tutorials/react-and-spring-data-rest/
 	
 	*Spring Batch-in-Action*
@@ -92,9 +93,9 @@ Java Tutorial URLS
 	- https://www.polarsparc.com/xhtml/SpringIntegration-01.html
 	- https://www.polarsparc.com/xhtml/SpringIntegration-02.html
 	- https://www.polarsparc.com/xhtml/SpringIntegration-03.html
-    - https://www.polarsparc.com/xhtml/SpringIntegration-04.html
+        - https://www.polarsparc.com/xhtml/SpringIntegration-04.html
 	- https://www.polarsparc.com/xhtml/SpringIntegration-05.html
-    - https://www.polarsparc.com/xhtml/SpringIntegration-06.html
+        - https://www.polarsparc.com/xhtml/SpringIntegration-06.html
 	- https://www.polarsparc.com/xhtml/SpringIntegration-07.html
 	- https://www.polarsparc.com/xhtml/SpringIntegration-08.html
 		
@@ -104,8 +105,8 @@ Java Tutorial URLS
 		
 	- https://www.baeldung.com/spring-integration
 		
-*Hibernate*
-- https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-with-hibernate-example/
+       *Hibernate*
+        - https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-with-hibernate-example/
 		
 *Design Patterns*
 - https://www.javacodegeeks.com/2015/09/java-design-patterns.html
@@ -163,46 +164,43 @@ Java Tutorial URLS
 - https://github.com/mission-peace/interview/wiki    
 - https://github.com/mission-peace/interview/tree/master/src/com/interview
 	
-	
 	javatpoint
 	journaldev
 	howtodoinjava
 	
-Ansible
-	https://www.polarsparc.com/xhtml/Ansible-1.html
-	https://www.polarsparc.com/xhtml/Ansible-2.html
-	https://www.polarsparc.com/xhtml/Ansible-3.html
-	https://www.polarsparc.com/xhtml/Ansible-4.html
-Kafka
-	https://www.polarsparc.com/xhtml/Kafka-1.html
-	https://www.polarsparc.com/xhtml/Kafka-2.html
+*Ansible*
+- https://www.polarsparc.com/xhtml/Ansible-1.html
+- https://www.polarsparc.com/xhtml/Ansible-2.html
+- https://www.polarsparc.com/xhtml/Ansible-3.html
+- https://www.polarsparc.com/xhtml/Ansible-4.html
+*Kafka*
+- https://www.polarsparc.com/xhtml/Kafka-1.html
+- https://www.polarsparc.com/xhtml/Kafka-2.html
 
-Rabbit MQ
-	https://www.polarsparc.com/xhtml/RabbitMQ-1.html
-	https://www.polarsparc.com/xhtml/RabbitMQ-2.html
-	https://www.polarsparc.com/xhtml/RabbitMQ-3.html
+*Rabbit MQ*
+- https://www.polarsparc.com/xhtml/RabbitMQ-1.html
+- https://www.polarsparc.com/xhtml/RabbitMQ-2.html
+- https://www.polarsparc.com/xhtml/RabbitMQ-3.html
 	
-Kafka
-	https://www.polarsparc.com/xhtml/Kerberos.html
+*Kafka*
+- https://www.polarsparc.com/xhtml/Kerberos.html
 	
-Python
-	https://www.polarsparc.com/xhtml/Python-1.html
-	https://www.polarsparc.com/xhtml/Python-2.html
-	https://www.polarsparc.com/xhtml/Python-3.html
-	https://www.polarsparc.com/xhtml/Python-4.html
-	https://www.polarsparc.com/xhtml/Python-5.html
-	https://www.polarsparc.com/xhtml/Python-6.html
+*Python*
+- https://www.polarsparc.com/xhtml/Python-1.html
+- https://www.polarsparc.com/xhtml/Python-2.html
+- https://www.polarsparc.com/xhtml/Python-3.html
+- https://www.polarsparc.com/xhtml/Python-4.html
+- https://www.polarsparc.com/xhtml/Python-5.html
+- https://www.polarsparc.com/xhtml/Python-6.html
 
-Cassandra
-	https://www.polarsparc.com/xhtml/Cassandra-1.html  ( 1- 10 )
+*Cassandra*
+- https://www.polarsparc.com/xhtml/Cassandra-1.html  ( 1- 10 )
 	
-	
-
 Youtube Tutorial
 ===================
 *Daily Code Buffer*
-- Spring Boot						: https://www.youtube.com/watch?v=c3gKseNAs9w  *
-- Spring Data JPA 				: https://www.youtube.com/watch?v=XszpXoII9Sg&t=109s
+- Spring Boot				: https://www.youtube.com/watch?v=c3gKseNAs9w  *
+- Spring Data JPA 			: https://www.youtube.com/watch?v=XszpXoII9Sg&t=109s
 - Microservices using SpringBoot 	: https://www.youtube.com/watch?v=BnknNTN8icw&t=2754s
 - Spring Boot Logging 			: https://www.youtube.com/watch?v=5a65m_8n3q8&list=RDCMUC4VZwhJ4T42SVHy9QbZ5rKw&index=14
 	
@@ -236,7 +234,6 @@ Youtube Tutorial
 	
 # AWS Matarials
 https://github.com/dailycodebuffer/AWS-Material
-
 
 Tools
 =====
