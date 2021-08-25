@@ -197,8 +197,8 @@ Java Tutorial URLS
 	
 Youtube Tutorial
 ===================
-[Daily code Buffer youtube](https://www.youtube.com/c/DailyCodeBuffer/videos)
-[Java Techie youtube](https://www.youtube.com/c/JavaTechie/playlists)
+- [Daily code Buffer youtube](https://www.youtube.com/c/DailyCodeBuffer/videos)
+- [Java Techie youtube](https://www.youtube.com/c/JavaTechie/playlists)
 
 *Daily Code Buffer*
 - [Spring Boot](https://www.youtube.com/watch?v=c3gKseNAs9w)
