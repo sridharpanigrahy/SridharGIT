@@ -241,5 +241,5 @@ Tools
 - To get handy data : https://www.mockaroo.com/
 - To convert json to pojo : https://www.jsonschema2pojo.org/
 - JSON Place Holder to get JSON data : https://jsonplaceholder.typicode.com/
-- Read Me Creation : https://dillinger.io/
-- Chat Sheet : https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+- Read Me Creation Online : https://dillinger.io/
+- ReadMe Chat Sheet : https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
