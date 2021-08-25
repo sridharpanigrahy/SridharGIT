@@ -199,7 +199,7 @@ Java Tutorial URLS
 	
 Youtube Tutorial
 ===================
-[Daily code Buffer] (https://www.youtube.com/c/DailyCodeBuffer/videos)
+[Daily code Buffer](https://www.youtube.com/c/DailyCodeBuffer/videos)
 *Daily Code Buffer*
 - Spring Boot				: https://www.youtube.com/watch?v=c3gKseNAs9w  *
 - Spring Data JPA 			: https://www.youtube.com/watch?v=XszpXoII9Sg&t=109s
@@ -224,15 +224,14 @@ Youtube Tutorial
 	
 
 # Spring Documentation
-	https://docs.spring.io/spring-framework/docs/current/reference/html/
-	https://docs.spring.io/spring-framework/docs/current/reference/html/core.html
-	https://docs.spring.io/spring-framework/docs/current/reference/html/integration.html#spring-integration
+- https://docs.spring.io/spring-framework/docs/current/reference/html/
+- https://docs.spring.io/spring-framework/docs/current/reference/html/core.html
+- https://docs.spring.io/spring-framework/docs/current/reference/html/integration.html#spring-integration
 	
-	
-	https://docs.spring.io/spring-framework/docs/4.2.x/spring-framework-reference/html/index.html
-	https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/html/index.html
-	https://docs.spring.io/spring-boot/docs/2.6.0-SNAPSHOT/reference/htmlsingle/#features.json
-	https://docs.spring.io/spring-framework/docs/current-SNAPSHOT/reference/html/
+- https://docs.spring.io/spring-framework/docs/4.2.x/spring-framework-reference/html/index.html
+- https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/html/index.html
+- https://docs.spring.io/spring-boot/docs/2.6.0-SNAPSHOT/reference/htmlsingle/#features.json
+- https://docs.spring.io/spring-framework/docs/current-SNAPSHOT/reference/html/
 	
 # AWS Matarials
 https://github.com/dailycodebuffer/AWS-Material
@@ -243,4 +242,6 @@ Tools
 - To get handy data : https://www.mockaroo.com/
 - To convert json to pojo : https://www.jsonschema2pojo.org/
 - JSON Place Holder to get JSON data : https://jsonplaceholder.typicode.com/
+- Read Me Creation : https://dillinger.io/
+- Chat Sheet : https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
