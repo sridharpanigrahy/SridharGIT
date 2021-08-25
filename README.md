@@ -1,22 +1,22 @@
 Java Tutorial URLS
 ==================
-*Basics*
+**Basics**
 - https://www.polarsparc.com/xhtml/JavaAnnotations.html
 
-*Generics*
+**Generics**
 - https://www.baeldung.com/java-generics
 - https://www.baeldung.com/java-generics-interview-questions
 	
-*Collections*
+**Collections**
 - https://www.baeldung.com/java-collections
 	
-*Threading*
+**Threading**
 - https://www.journaldev.com/1079/multithreading-in-java
 - https://howtodoinjava.com/java-concurrency-tutorial/
 - https://www.baeldung.com/java-concurrency
 - https://howtodoinjava.com/java/multi-threading/
 
-*XML Tutorial*
+**XML Tutorial**
 - https://www.javaguides.net/p/java-xml-tutorial.html
 - https://www.javaguides.net/2018/10/jaxb-tutorial.html
 - https://mkyong.com/tutorials/java-xml-tutorials/
@@ -24,10 +24,10 @@ Java Tutorial URLS
 - https://mkyong.com/spring3/spring-objectxml-mapping-example/
 - https://www.netjstech.com/2018/11/spring-object-xml-mapping-support-jaxb-example.html
 
-*Java 7*
+**Java 7**
 - https://www.polarsparc.com/xhtml/Java7.html
 	
-*Java 8 Tutorial*
+**Java 8 Tutorial**
 - https://www.javaguides.net/p/java-8.html
 - https://howtodoinjava.com/java-8-tutorial/
 - https://mkyong.com/tutorials/java-8-tutorials/
@@ -41,13 +41,13 @@ Java Tutorial URLS
 - https://www.polarsparc.com/xhtml/Java8-CompletableFuture-3.html
 - https://www.polarsparc.com/xhtml/Java8-CompletableFuture-4.html
 
-*Spring Framework*
+**Spring Framework**
 - http://www.polarsparc.com/xhtml/SpringFrameworkEssentials-1.html
 - http://www.polarsparc.com/xhtml/SpringFrameworkEssentials-2.html
 - https://www.polarsparc.com/xhtml/SpringFrameworkEssentials-3.html
 - https://www.polarsparc.com/xhtml/SpringFrameworkEssentials-4.html
 	
-*Spring Boot*
+**Spring Boot**
 - https://howtodoinjava.com/spring-boot2/
 - https://mkyong.com/tutorials/spring-boot-tutorials/
 - https://www.javainuse.com/spring/boot_security_jdbc_authentication
@@ -92,9 +92,9 @@ Java Tutorial URLS
 	- https://www.polarsparc.com/xhtml/SpringIntegration-01.html
 	- https://www.polarsparc.com/xhtml/SpringIntegration-02.html
 	- https://www.polarsparc.com/xhtml/SpringIntegration-03.html
-        - https://www.polarsparc.com/xhtml/SpringIntegration-04.html
+	- https://www.polarsparc.com/xhtml/SpringIntegration-04.html
 	- https://www.polarsparc.com/xhtml/SpringIntegration-05.html
-        - https://www.polarsparc.com/xhtml/SpringIntegration-06.html
+	- https://www.polarsparc.com/xhtml/SpringIntegration-06.html
 	- https://www.polarsparc.com/xhtml/SpringIntegration-07.html
 	- https://www.polarsparc.com/xhtml/SpringIntegration-08.html
 	- https://docs.spring.io/spring-integration/reference/html/file.html
@@ -106,19 +106,19 @@ Java Tutorial URLS
     *Hibernate*
     - https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-with-hibernate-example/
 		
-*Design Patterns*
+**Design Patterns**
 - https://www.javacodegeeks.com/2015/09/java-design-patterns.html
 - https://github.com/mission-peace/EffectiveJava/blob/master/src/com/ej/singleton/Connection.java
 
-*Drools*
+**Drools**
 - https://www.polarsparc.com/xhtml/Drools-1.html
 - https://www.polarsparc.com/xhtml/Drools-2.html
 - https://www.polarsparc.com/xhtml/Drools-3.html
 		
-*Book on GitHub*
+**Book on GitHub**
 - https://github.com/dfparker2002/books-2
 		
-*Code Example*
+# Code Example
 - https://github.com/spring-guides
 	 
 - https://github.com/RameshMF?tab=repositories
@@ -162,29 +162,29 @@ Java Tutorial URLS
 - https://github.com/mission-peace/interview/wiki    
 - https://github.com/mission-peace/interview/tree/master/src/com/interview
 	
-	> javatpoint
-	> journaldev
-	> howtodoinjava
+	- javatpoint
+	- journaldev
+	- howtodoinjava
 	
-*Ansible*
+# Ansible
 - https://www.polarsparc.com/xhtml/Ansible-1.html
 - https://www.polarsparc.com/xhtml/Ansible-2.html
 - https://www.polarsparc.com/xhtml/Ansible-3.html
 - https://www.polarsparc.com/xhtml/Ansible-4.html
 
-*Kafka*
+# Kafka
 - https://www.polarsparc.com/xhtml/Kafka-1.html
 - https://www.polarsparc.com/xhtml/Kafka-2.html
 
-*Rabbit MQ*
+# Rabbit MQ
 - https://www.polarsparc.com/xhtml/RabbitMQ-1.html
 - https://www.polarsparc.com/xhtml/RabbitMQ-2.html
 - https://www.polarsparc.com/xhtml/RabbitMQ-3.html
 	
-*Kerberos*
+# Kerberos
 - https://www.polarsparc.com/xhtml/Kerberos.html
 	
-*Python*
+# Python
 - https://www.polarsparc.com/xhtml/Python-1.html
 - https://www.polarsparc.com/xhtml/Python-2.html
 - https://www.polarsparc.com/xhtml/Python-3.html
@@ -192,7 +192,7 @@ Java Tutorial URLS
 - https://www.polarsparc.com/xhtml/Python-5.html
 - https://www.polarsparc.com/xhtml/Python-6.html
 
-*Cassandra*
+# Cassandra
 - https://www.polarsparc.com/xhtml/Cassandra-1.html  ( 1- 10 )
 	
 Youtube Tutorial
@@ -200,7 +200,7 @@ Youtube Tutorial
 - [Daily code Buffer youtube](https://www.youtube.com/c/DailyCodeBuffer/videos)
 - [Java Techie youtube](https://www.youtube.com/c/JavaTechie/playlists)
 
-*Daily Code Buffer*
+**Daily Code Buffer**
 - [Spring Boot](https://www.youtube.com/watch?v=c3gKseNAs9w)
 - [Spring Data JPA](https://www.youtube.com/watch?v=XszpXoII9Sg&t=109s)
 - [Microservices using SpringBoot](https://www.youtube.com/watch?v=BnknNTN8icw&t=2754s)
@@ -210,9 +210,9 @@ Youtube Tutorial
 	- https://github.com/dailycodebuffer/Spring-MVC-Tutorials
 	- https://github.com/shabbirdwd53
 	
-*Java Techie*
+**Java Techie**
 - [How spring Boot works internally 1](https://www.youtube.com/watch?v=qlygg_H1M20&t=114s)
-- [How spring Boot works internally 1](https://www.youtube.com/watch?v=TWK7-gzTiHk)
+- [How spring Boot works internally 2](https://www.youtube.com/watch?v=TWK7-gzTiHk)
 - [How does Spring Security Authentication work internally 1](https://www.youtube.com/watch?v=1ERV-6cz2xk&t=31s)
 - [How does Spring Security Authentication work internally 2](https://www.youtube.com/watch?v=caCJAJC41Rk)
 - [How to setup JDBC authentication with Spring Security from scratch](https://www.youtube.com/watch?v=LKvrFltAgCQ)
