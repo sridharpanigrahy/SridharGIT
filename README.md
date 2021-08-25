@@ -92,9 +92,9 @@ Java Tutorial URLS
 	- https://www.polarsparc.com/xhtml/SpringIntegration-01.html
 	- https://www.polarsparc.com/xhtml/SpringIntegration-02.html
 	- https://www.polarsparc.com/xhtml/SpringIntegration-03.html
-    - https://www.polarsparc.com/xhtml/SpringIntegration-04.html
+        - https://www.polarsparc.com/xhtml/SpringIntegration-04.html
 	- https://www.polarsparc.com/xhtml/SpringIntegration-05.html
-    - https://www.polarsparc.com/xhtml/SpringIntegration-06.html
+        - https://www.polarsparc.com/xhtml/SpringIntegration-06.html
 	- https://www.polarsparc.com/xhtml/SpringIntegration-07.html
 	- https://www.polarsparc.com/xhtml/SpringIntegration-08.html
 	- https://docs.spring.io/spring-integration/reference/html/file.html
@@ -162,9 +162,9 @@ Java Tutorial URLS
 - https://github.com/mission-peace/interview/wiki    
 - https://github.com/mission-peace/interview/tree/master/src/com/interview
 	
-	- javatpoint
-	- journaldev
-	- howtodoinjava
+	> javatpoint
+	> journaldev
+	> howtodoinjava
 	
 *Ansible*
 - https://www.polarsparc.com/xhtml/Ansible-1.html
