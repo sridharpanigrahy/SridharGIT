@@ -173,6 +173,7 @@ Java Tutorial URLS
 - https://www.polarsparc.com/xhtml/Ansible-2.html
 - https://www.polarsparc.com/xhtml/Ansible-3.html
 - https://www.polarsparc.com/xhtml/Ansible-4.html
+
 *Kafka*
 - https://www.polarsparc.com/xhtml/Kafka-1.html
 - https://www.polarsparc.com/xhtml/Kafka-2.html
@@ -182,7 +183,7 @@ Java Tutorial URLS
 - https://www.polarsparc.com/xhtml/RabbitMQ-2.html
 - https://www.polarsparc.com/xhtml/RabbitMQ-3.html
 	
-*Kafka*
+*Kerberos*
 - https://www.polarsparc.com/xhtml/Kerberos.html
 	
 *Python*
@@ -198,6 +199,7 @@ Java Tutorial URLS
 	
 Youtube Tutorial
 ===================
+[Daily code Buffer] (https://www.youtube.com/c/DailyCodeBuffer/videos)
 *Daily Code Buffer*
 - Spring Boot				: https://www.youtube.com/watch?v=c3gKseNAs9w  *
 - Spring Data JPA 			: https://www.youtube.com/watch?v=XszpXoII9Sg&t=109s
