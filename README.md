@@ -1,13 +1,20 @@
 Java Tutorial URLS
 ==================
 **Basics**
+- https://www.javaguides.net/p/core-java-tutorial-for-experienced.html
+- https://www.javaguides.net/p/java-tutorial-learn-java-programming.html
 - https://www.polarsparc.com/xhtml/JavaAnnotations.html
 
+**IO**
+- https://www.javaguides.net/p/java-io-tutorial.html
+
 **Generics**
+- https://www.javaguides.net/p/java-generics-tutorial.html
 - https://www.baeldung.com/java-generics
 - https://www.baeldung.com/java-generics-interview-questions
 	
 **Collections**
+- https://www.javaguides.net/p/java-collections-tutorial.html
 - https://www.baeldung.com/java-collections
 	
 **Threading**
@@ -42,6 +49,9 @@ Java Tutorial URLS
 - https://www.polarsparc.com/xhtml/Java8-CompletableFuture-3.html
 - https://www.polarsparc.com/xhtml/Java8-CompletableFuture-4.html
 
+**Junit 5 **
+- https://www.javaguides.net/p/junit-5.html
+
 **Spring Framework**
 - http://www.polarsparc.com/xhtml/SpringFrameworkEssentials-1.html
 - http://www.polarsparc.com/xhtml/SpringFrameworkEssentials-2.html
@@ -55,6 +65,7 @@ Java Tutorial URLS
 - https://examples.javacodegeeks.com/category/enterprise-java/spring/
 	
 	*Data JPA*
+	- https://www.javaguides.net/p/spring-data-jpa-tutorial.html
 	- https://www.baeldung.com/spring-data-jpa-query
 	- https://github.com/bhaskars-repo/SB-Data-JPA
 			
@@ -73,14 +84,14 @@ Java Tutorial URLS
 	- https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth
 	
 	*Spring Security*
-    - https://www.javaguides.net/p/spring-security-tutorial.html
+	- https://www.javaguides.net/p/spring-security-tutorial.html
 	- https://mkyong.com/spring-security/spring-security-form-login-using-database/
 	- https://www.javaguides.net/2019/09/user-account-registration-and-login.html
 	- https://mkyong.com/spring-security/spring-security-form-login-using-database/
 	- https://www.javainuse.com/spring/boot_security_jdbc_authentication
 
 	*Spring Boot and React*
-    - https://github.com/spring-guides/tut-react-and-spring-data-rest
+	- https://github.com/spring-guides/tut-react-and-spring-data-rest
 	- https://spring.io/guides/tutorials/react-and-spring-data-rest/
 	
 	*Spring Batch-in-Action*
@@ -105,6 +116,7 @@ Java Tutorial URLS
 	- https://www.baeldung.com/spring-integration
 		
     *Hibernate*
+    - https://www.javaguides.net/p/hibernate-tutorial.html
     - https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-with-hibernate-example/
 		
 **Design Patterns**
