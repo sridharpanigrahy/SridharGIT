@@ -13,8 +13,9 @@ Java Tutorial URLS
 **Threading**
 - https://www.journaldev.com/1079/multithreading-in-java
 - https://howtodoinjava.com/java-concurrency-tutorial/
-- https://www.baeldung.com/java-concurrency
 - https://howtodoinjava.com/java/multi-threading/
+- https://www.baeldung.com/java-concurrency
+- https://www.javaguides.net/p/java-multithreading-utorial.html
 
 **XML Tutorial**
 - https://www.javaguides.net/p/java-xml-tutorial.html
