@@ -3,6 +3,7 @@ Java Tutorial URLS
 **Basics**
 - https://www.javaguides.net/p/core-java-tutorial-for-experienced.html
 - https://www.javaguides.net/p/java-tutorial-learn-java-programming.html
+- https://www.javaguides.net/p/java-exception-handling-tutorial.html
 - https://www.polarsparc.com/xhtml/JavaAnnotations.html
 
 **IO**
