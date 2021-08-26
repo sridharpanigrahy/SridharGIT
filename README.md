@@ -78,12 +78,15 @@ Java Tutorial URLS
 	- https://docs.spring.io/spring-boot/docs/current/reference/html/using.html#using.devtools
 	
 	*Async*
-    - https://howtodoinjava.com/spring-boot2/rest/enableasync-async-controller/
+	- https://howtodoinjava.com/spring-boot2/rest/enableasync-async-controller/
 	
 	*Transaction Mgmt*
-    - https://dzone.com/articles/bountyspring-transactional-management
+	- https://dzone.com/articles/bountyspring-transactional-management
 	- https://dzone.com/articles/spring-transaction-propagation
 	- https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth
+	
+	*Spring AOP*
+	- https://www.javaguides.net/p/spring-aop-tutorial.html
 	
 	*Spring Security*
 	- https://www.javaguides.net/p/spring-security-tutorial.html
@@ -214,6 +217,7 @@ Youtube Tutorial
 ===================
 - [Daily code Buffer youtube](https://www.youtube.com/c/DailyCodeBuffer/videos)
 - [Java Techie youtube](https://www.youtube.com/c/JavaTechie/playlists)
+- [KK Tutorial](https://www.youtube.com/c/KKJavaTutorials/playlists)
 
 **Daily Code Buffer**
 - [Spring Boot](https://www.youtube.com/watch?v=c3gKseNAs9w)
