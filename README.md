@@ -16,6 +16,7 @@ Java Tutorial URLS
 	
 **Collections**
 - https://www.javaguides.net/p/java-collections-tutorial.html
+- https://www.youtube.com/playlist?list=PLGRDMO4rOGcNpAJPtuuCOPXvI39Elxa-c
 - https://www.baeldung.com/java-collections
 	
 **Threading**
