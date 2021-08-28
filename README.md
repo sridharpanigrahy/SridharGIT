@@ -72,6 +72,7 @@ Java Tutorial URLS
 - https://reflectoring.io/spring-boot-execute-on-startup/
 - https://reflectoring.io/spring-boot-configuration-properties/
 - https://reflectoring.io/event-messaging-with-spring-boot-and-rabbitmq/
+- https://www.baeldung.com/spring-factorybean
 
 **Spring Framework**
 - http://www.polarsparc.com/xhtml/SpringFrameworkEssentials-1.html
