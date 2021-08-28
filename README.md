@@ -67,6 +67,11 @@ Java Tutorial URLS
 - https://reflectoring.io/spring-boot-kafka/
 - https://reflectoring.io/validate-spring-boot-configuration-parameters-at-startup/
 - https://reflectoring.io/spring-boot-conditionals/
+- https://reflectoring.io/constructor-injection/
+- https://reflectoring.io/database-migration-spring-boot-flyway/
+- https://reflectoring.io/spring-boot-execute-on-startup/
+- https://reflectoring.io/spring-boot-configuration-properties/
+- https://reflectoring.io/event-messaging-with-spring-boot-and-rabbitmq/
 
 **Spring Framework**
 - http://www.polarsparc.com/xhtml/SpringFrameworkEssentials-1.html
