@@ -156,6 +156,7 @@ Java Tutorial URLS
 **Design Patterns**
 - https://www.javacodegeeks.com/2015/09/java-design-patterns.html
 - https://github.com/mission-peace/EffectiveJava/blob/master/src/com/ej/singleton/Connection.java
+- https://www.sourcecodeexamples.net/p/core.html
 
 **Drools**
 - https://www.polarsparc.com/xhtml/Drools-1.html
