@@ -56,6 +56,17 @@ Java Tutorial URLS
 **Junit 5**
 - https://www.javaguides.net/p/junit-5.html
 - https://www.baeldung.com/junit
+- https://reflectoring.io/clean-unit-tests-with-mockito/
+
+**Others**
+- https://reflectoring.io/create-analyze-heapdump/
+- https://reflectoring.io/create-analyze-heapdump/
+- https://reflectoring.io/spring-boot-test/
+- https://reflectoring.io/dont-use-spring-profile-annotation/
+- https://reflectoring.io/spring-bean-lifecycle/
+- https://reflectoring.io/spring-boot-kafka/
+- https://reflectoring.io/validate-spring-boot-configuration-parameters-at-startup/
+- https://reflectoring.io/spring-boot-conditionals/
 
 **Spring Framework**
 - http://www.polarsparc.com/xhtml/SpringFrameworkEssentials-1.html
@@ -171,6 +182,8 @@ Java Tutorial URLS
 	 
 - https://www.sourcecodeexamples.net/p/free-spring-boot-projects.html
 - https://github.com/eugenp/tutorials
+
+- https://github.com/thombergs/code-examples/tree/master/spring-boot
 	 
 *Spring Boot In Action Example*
 - https://github.com/spring-projects/Spring-Integration-in-Action
