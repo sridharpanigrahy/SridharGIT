@@ -41,6 +41,7 @@ Java Tutorial URLS
 - https://www.javaguides.net/p/java-8.html
 - https://howtodoinjava.com/java-8-tutorial/
 - https://mkyong.com/tutorials/java-8-tutorials/
+- https://www.baeldung.com/java-streams
 - https://www.polarsparc.com/xhtml/Java8-LambdaExpressions.html
 - https://www.polarsparc.com/xhtml/Java8-DefaultMethods.html
 - https://www.polarsparc.com/xhtml/Java8-Optional.html
@@ -51,7 +52,7 @@ Java Tutorial URLS
 - https://www.polarsparc.com/xhtml/Java8-CompletableFuture-3.html
 - https://www.polarsparc.com/xhtml/Java8-CompletableFuture-4.html
 
-**Junit 5 **
+**Junit 5**
 - https://www.javaguides.net/p/junit-5.html
 
 **Spring Framework**
@@ -65,7 +66,16 @@ Java Tutorial URLS
 - https://mkyong.com/tutorials/spring-boot-tutorials/
 - https://www.javainuse.com/spring/boot_security_jdbc_authentication
 - https://examples.javacodegeeks.com/category/enterprise-java/spring/
-	
+
+- https://www.baeldung.com/spring-dependency-injection
+- https://www.baeldung.com/spring-5
+- https://www.baeldung.com/spring-boot
+- https://www.baeldung.com/persistence-with-spring-series/
+- https://www.baeldung.com/spring-mvc
+- https://www.baeldung.com/rest-with-spring-series/
+- https://www.baeldung.com/spring-security-oauth
+- https://www.baeldung.com/spring-cloud-series
+
 	*Data JPA*
 	- https://www.javaguides.net/p/spring-data-jpa-tutorial.html
 	- https://www.baeldung.com/spring-data-jpa-query
