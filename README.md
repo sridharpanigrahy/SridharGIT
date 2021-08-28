@@ -5,6 +5,7 @@ Java Tutorial URLS
 - https://www.javaguides.net/p/java-tutorial-learn-java-programming.html
 - https://www.javaguides.net/p/java-exception-handling-tutorial.html
 - https://www.polarsparc.com/xhtml/JavaAnnotations.html
+- https://www.baeldung.com/java-tutorial
 
 **IO**
 - https://www.javaguides.net/p/java-io-tutorial.html
@@ -54,6 +55,7 @@ Java Tutorial URLS
 
 **Junit 5**
 - https://www.javaguides.net/p/junit-5.html
+- https://www.baeldung.com/junit
 
 **Spring Framework**
 - http://www.polarsparc.com/xhtml/SpringFrameworkEssentials-1.html
