@@ -153,6 +153,7 @@ Java Tutorial URLS
 		
 	- https://www.baeldung.com/spring-integration
 	- https://www.baeldung.com/spring-integration-java-dsl
+	- https://www.tabnine.com/code/java/classes/org.springframework.integration.dsl.IntegrationFlowBuilder
 		
     *Hibernate*
     - https://www.javaguides.net/p/hibernate-tutorial.html
