@@ -196,6 +196,8 @@ Java Tutorial URLS
 - https://github.com/eugenp/tutorials
 
 - https://github.com/thombergs/code-examples/tree/master/spring-boot
+
+- https://github.com/krzyzol/spring-integration-presentation   (Spring Integration)
 	 
 *Spring Boot In Action Example*
 - https://github.com/spring-projects/Spring-Integration-in-Action
