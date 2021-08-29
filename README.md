@@ -152,6 +152,7 @@ Java Tutorial URLS
 	- https://github.com/spring-projects/spring-integration-java-dsl/wiki/Spring-Integration-Java-DSL-Reference
 		
 	- https://www.baeldung.com/spring-integration
+	- https://www.baeldung.com/spring-integration-java-dsl
 		
     *Hibernate*
     - https://www.javaguides.net/p/hibernate-tutorial.html
