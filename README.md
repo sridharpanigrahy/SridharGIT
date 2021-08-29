@@ -146,8 +146,10 @@ Java Tutorial URLS
 	- https://www.polarsparc.com/xhtml/SpringIntegration-07.html
 	- https://www.polarsparc.com/xhtml/SpringIntegration-08.html
 	- https://docs.spring.io/spring-integration/reference/html/file.html
+	- https://docs.spring.io/spring-integration/docs/current/reference/html/index.html
 	- https://github.com/bhaskars-repo/SpringIntegration
 	- https://github.com/spring-projects/spring-integration-samples
+	- https://github.com/spring-projects/spring-integration-java-dsl/wiki/Spring-Integration-Java-DSL-Reference
 		
 	- https://www.baeldung.com/spring-integration
 		
@@ -198,6 +200,7 @@ Java Tutorial URLS
 - https://github.com/thombergs/code-examples/tree/master/spring-boot
 
 - https://github.com/krzyzol/spring-integration-presentation   (Spring Integration)
+- https://github.com/SimpleProgramming/spring-integration-example (Spring Integration)
 	 
 *Spring Boot In Action Example*
 - https://github.com/spring-projects/Spring-Integration-in-Action
