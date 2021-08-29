@@ -276,7 +276,11 @@ Youtube Tutorial
 	
 	*GitHub*
 	- https://github.com/orgs/Java-Techie-jt/repositories
-	
+
+**Others Youtube videos**
+- Spring Integration concepts: https://www.youtube.com/playlist?list=PL5oijvb2zs0cauQ0KId8E3ZtHFDPl7555
+- Spring Integration 2       : https://www.youtube.com/watch?v=lmKxNUHdxlU&t=3392s
+- Spring Integration with annotations : https://www.youtube.com/playlist?list=PLO0KWyajXMh6HbVTnf7YqwbEeZU6kuKJa
 
 # Spring Documentation
 - https://docs.spring.io/spring-framework/docs/current/reference/html/
