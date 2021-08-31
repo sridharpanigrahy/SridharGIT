@@ -158,8 +158,8 @@ Java Tutorial URLS
 	
 	*MicroService*
 	- Feign : 
-		https://www.javadevjournal.com/spring/feign/
-		https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-feign.html
+		- https://www.javadevjournal.com/spring/feign/
+		- https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-feign.html
 
 
     *Hibernate*
