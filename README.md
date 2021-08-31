@@ -85,6 +85,7 @@ Java Tutorial URLS
 **Spring Boot**
 - https://howtodoinjava.com/spring-boot2/
 - https://mkyong.com/tutorials/spring-boot-tutorials/
+- https://www.javadevjournal.com/category/spring/
 - https://www.javainuse.com/spring/boot_security_jdbc_authentication
 - https://examples.javacodegeeks.com/category/enterprise-java/spring/
 - https://www.sourcecodeexamples.net/search/label/Spring%20Boot
@@ -154,7 +155,13 @@ Java Tutorial URLS
 	- https://www.baeldung.com/spring-integration
 	- https://www.baeldung.com/spring-integration-java-dsl
 	- https://www.tabnine.com/code/java/classes/org.springframework.integration.dsl.IntegrationFlowBuilder
-		
+	
+	*MicroService*
+	- Feign : 
+		https://www.javadevjournal.com/spring/feign/
+		https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-feign.html
+
+
     *Hibernate*
     - https://www.javaguides.net/p/hibernate-tutorial.html
     - https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-with-hibernate-example/
@@ -190,7 +197,8 @@ Java Tutorial URLS
 - https://github.com/kishanjavatrainer
 	 
 - https://github.com/szantopeter?tab=repositories
-	 
+
+- https://github.com/only2dhir?tab=repositories
 - https://github.com/bhaskars-repo
 	 
 - https://github.com/mkyong/core-java
