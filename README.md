@@ -196,9 +196,9 @@ Java Tutorial URLS
 	 
 - https://github.com/kishanjavatrainer
 	 
-- https://github.com/szantopeter?tab=repositories
+- https://github.com/szantopeter?tab=repositories  ( microservice )
+- https://github.com/only2dhir?tab=repositories    ( microservice )
 
-- https://github.com/only2dhir?tab=repositories
 - https://github.com/bhaskars-repo
 	 
 - https://github.com/mkyong/core-java
