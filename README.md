@@ -160,6 +160,7 @@ Java Tutorial URLS
 	- Feign : 
 		- https://www.javadevjournal.com/spring/feign/
 		- https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-feign.html
+		- https://cloud.spring.io/spring-cloud-netflix/1.4.x/multi/multi_spring-cloud-netflix.html
 
 
     *Hibernate*
