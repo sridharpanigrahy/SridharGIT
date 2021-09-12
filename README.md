@@ -277,6 +277,7 @@ Youtube Tutorial
 - [Daily code Buffer youtube](https://www.youtube.com/c/DailyCodeBuffer/videos)
 - [Java Techie youtube](https://www.youtube.com/c/JavaTechie/playlists)
 - [KK Tutorial](https://www.youtube.com/c/KKJavaTutorials/playlists)
+- [DefogTech](https://www.youtube.com/c/DefogTech/videos)
 
 **Daily Code Buffer**
 - [Spring Boot](https://www.youtube.com/watch?v=c3gKseNAs9w)
