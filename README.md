@@ -200,9 +200,7 @@ Java Tutorial URLS
 - https://github.com/shabbirdwd53
 	 
 - https://github.com/kishanjavatrainer
-
-- https://github.com/techefx?tab=repositories
-- 
+- https://github.com/techefx?tab=repositories      (microservice example)
 - https://github.com/szantopeter?tab=repositories  ( microservice )
 - https://github.com/only2dhir?tab=repositories    ( microservice )
 - https://github.com/saurabh-vaish/SpringBoot      (Good)
