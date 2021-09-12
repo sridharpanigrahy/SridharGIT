@@ -326,3 +326,4 @@ Tools
 - JSON Place Holder to get JSON data : https://jsonplaceholder.typicode.com/
 - Read Me Creation Online : https://dillinger.io/   ,  https://readme.so/editor
 - ReadMe Chat Sheet : https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+- JavaInUse Online Tools: https://www.javainuse.com/tools
