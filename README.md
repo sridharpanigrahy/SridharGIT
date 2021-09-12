@@ -278,6 +278,8 @@ Youtube Tutorial
 - [Java Techie youtube](https://www.youtube.com/c/JavaTechie/playlists)
 - [KK Tutorial](https://www.youtube.com/c/KKJavaTutorials/playlists)
 - [DefogTech](https://www.youtube.com/c/DefogTech/videos)
+- [JavaInUse](https://www.youtube.com/c/JavaInUse/videos)
+- [JavaGuides](https://www.youtube.com/c/JavaGuides/videos)
 
 **Daily Code Buffer**
 - [Spring Boot](https://www.youtube.com/watch?v=c3gKseNAs9w)
