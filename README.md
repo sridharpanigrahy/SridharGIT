@@ -97,6 +97,7 @@ Java Tutorial URLS
 - https://www.baeldung.com/rest-with-spring-series/
 - https://www.baeldung.com/spring-security-oauth
 - https://www.baeldung.com/spring-cloud-series
+- https://github.com/springframeworkguru/spring-boot-actuator
 
 	*Data JPA*
 	- https://www.javaguides.net/p/spring-data-jpa-tutorial.html
