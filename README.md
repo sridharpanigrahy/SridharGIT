@@ -233,6 +233,7 @@ Java Tutorial URLS
 - https://www.javainuse.com/java/java8_intvw
 - https://www.interviewbit.com/java-interview-questions/
 - https://www.javatpoint.com/corejava-interview-questions
+- https://www.javainterviewpoint.com/
 	
 *For Data Structure*
 - https://github.com/mission-peace/interview/wiki    
