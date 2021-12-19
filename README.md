@@ -234,6 +234,7 @@ Java Tutorial URLS
 - https://www.interviewbit.com/java-interview-questions/
 - https://www.javatpoint.com/corejava-interview-questions
 - https://www.javainterviewpoint.com/
+- https://www.logicbig.com/tutorials/spring-framework/spring-core.html
 	
 *For Data Structure*
 - https://github.com/mission-peace/interview/wiki    
