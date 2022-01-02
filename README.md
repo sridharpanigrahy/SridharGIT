@@ -239,6 +239,14 @@ Java Tutorial URLS
 - https://www.javatpoint.com/corejava-interview-questions
 - https://www.javainterviewpoint.com/
 - https://www.logicbig.com/tutorials/spring-framework/spring-core.html
+# Java Success
+- https://www.java-success.com/core-java-interview-questions/
+- https://www.java-success.com/java-multithreading-interview-questions-and-answers/
+- https://www.java-success.com/hashmap-and-how-it-works/
+- https://www.java-success.com/why-favor-composition-over-inheritance-in-java-oop/
+- https://www.java-success.com/spring-di-ioc-explained/
+- https://www.java-success.com/13-spring-interview-questions-answers/
+- https://ducmanhphan.github.io/tags/#Design%20Pattern
 	
 *For Data Structure*
 - https://github.com/mission-peace/interview/wiki    
