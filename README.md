@@ -188,8 +188,11 @@ Java Tutorial URLS
 # Code Example
 - https://github.com/spring-guides
 	 
-- https://github.com/RameshMF?tab=repositories
-	 
+- https://github.com/RameshMF?tab=repositories   ( JavaGuides )
+
+- https://github.com/callicoder?tab=repositories
+- https://www.callicoder.com/categories/java/
+
 - https://github.com/SimpleProgramming?tab=repositories
 - https://www.sourcecodeexamples.net/search/label/Spring%20Boot
 - https://github.com/sivaprasadreddy
