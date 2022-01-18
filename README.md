@@ -169,6 +169,7 @@ Java Tutorial URLS
    		- https://www.appsdeveloperblog.com/microservices-and-spring-cloud-tutorials-for-beginners/
 	- Microservices Projects
 	 	- https://www.javaguides.net/2020/06/free-spring-boot-microservices-open-source-projects-github.html
+	 	- https://www.sivalabs.in/categories/microservices/
     *Hibernate*
     - https://www.javaguides.net/p/hibernate-tutorial.html
     - https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-with-hibernate-example/
