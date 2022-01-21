@@ -1,6 +1,14 @@
 Java Tutorial URLS
 ==================
-**Full Java Tutorials** - https://www.javaguides.net/p/top-java-tutorials.html
+Best sites
+**Full Java Tutorials** 
+- https://www.javaguides.net/p/top-java-tutorials.html
+- https://www.onlinetutorialspoint.com/java/core-java
+- https://www.onlinetutorialspoint.com/java-8
+- https://www.onlinetutorialspoint.com/spring-boot-tutorials
+- https://www.onlinetutorialspoint.com/hibernate-tutorials
+- https://www.onlinetutorialspoint.com/spring-tutorials
+- 
 
 **Basics**
 - https://www.javaguides.net/p/core-java-tutorial-for-experienced.html
