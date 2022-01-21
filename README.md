@@ -12,6 +12,8 @@ Best sites
 - https://javatechonline.com/spring-boot-tutorial/
 - https://javatechonline.com/microservices-tutorial/
 
+- https://coderstea.in/post/java/monitor-your-java-memory-with-these-tools/
+
 **Basics**
 - https://www.javaguides.net/p/core-java-tutorial-for-experienced.html
 - https://www.javaguides.net/p/java-tutorial-learn-java-programming.html
