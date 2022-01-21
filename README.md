@@ -8,7 +8,9 @@ Best sites
 - https://www.onlinetutorialspoint.com/spring-boot-tutorials
 - https://www.onlinetutorialspoint.com/hibernate-tutorials
 - https://www.onlinetutorialspoint.com/spring-tutorials
-- 
+- https://javatechonline.com/java-design-patterns-java/
+- https://javatechonline.com/spring-boot-tutorial/
+- https://javatechonline.com/microservices-tutorial/
 
 **Basics**
 - https://www.javaguides.net/p/core-java-tutorial-for-experienced.html
