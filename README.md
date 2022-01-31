@@ -11,7 +11,7 @@ Best sites
 - https://javatechonline.com/java-design-patterns-java/
 - https://javatechonline.com/spring-boot-tutorial/
 - https://javatechonline.com/microservices-tutorial/
-
+- https://java2blog.com/
 - https://coderstea.in/post/java/monitor-your-java-memory-with-these-tools/
 
 **Basics**
