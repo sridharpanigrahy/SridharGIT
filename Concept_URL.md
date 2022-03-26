@@ -1,8 +1,12 @@
 Interview Questions
 ===================
-https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/
-
-
+https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/  
+https://www.journaldev.com/java-interview-questions  
+https://www.javacodegeeks.com/java-interview-questions.html 
+https://allmncjavainterview.blogspot.com/
+https://java2blog.com/core-java-interview-questions-and-answers/ 
+https://github.com/learning-zone/java-interview-questions 
+https://www.knowledgehut.com/interview-questions/java-collection 
 
 Design Pattern
 ==============
@@ -11,14 +15,14 @@ https://www.journaldev.com/1827/java-design-patterns-example-tutorial
 Spring Data JPA
 ===============
 https://www.netsurfingzone.com/jpa/spring-data-jpa-interview-questions-and-answers/   ( good )
-https://www.stackchief.com/blog/Spring%20Data%20JPA%20Interview%20Questions
-https://codingcompiler.com/jpa-interview-questions-answers/
+https://www.stackchief.com/blog/Spring%20Data%20JPA%20Interview%20Questions 
+https://codingcompiler.com/jpa-interview-questions-answers/ 
 
 Kafka
 =====
-https://www.netsurfingzone.com/kafka/spring-boot-kafka-producer-and-consumer-example-step-by-step-guide/
-https://javatechonline.com/how-to-work-with-apache-kafka-in-spring-boot/
-https://www.javainuse.com/messaging/kafka
+https://www.netsurfingzone.com/kafka/spring-boot-kafka-producer-and-consumer-example-step-by-step-guide/ 
+https://javatechonline.com/how-to-work-with-apache-kafka-in-spring-boot/ 
+https://www.javainuse.com/messaging/kafka 
 
 Project from Java Guides
 =======================
@@ -28,24 +32,21 @@ https://www.sourcecodeexamples.net/p/free-spring-boot-projects.html
 JavaInUse
 =========
 https://www.javainuse.com/spring/boot-transaction-isolation  ( good for transaction idolation details)
-https://www.javainuse.com/java/javaConcurrentHashMap
+https://www.javainuse.com/java/javaConcurrentHashMap  
 https://www.javainuse.com/webseries/spring-security-jwt/chap3  ( Good for spring security )
 
 Core Java : Coding Compiler
 ============================
-https://codingcompiler.com/interfaces-in-java/
-https://codingcompiler.com/collection-factory-methods-in-java/
-https://codingcompiler.com/generics-in-java/
-https://codingcompiler.com/reference-types-in-java/
-https://codingcompiler.com/constructors-in-java/
-https://codingcompiler.com/immutable-class-in-java/
-https://codingcompiler.com/immutable-objects-in-java/
-https://codingcompiler.com/bit-manipulation-in-java/
-https://codingcompiler.com/string-pool-and-heap-storage/
-https://codingcompiler.com/java-stringbuffer/
-
-
-https://github.com/learning-zone/java-interview-questions
+https://codingcompiler.com/interfaces-in-java/ 
+https://codingcompiler.com/collection-factory-methods-in-java/ 
+https://codingcompiler.com/generics-in-java/ 
+https://codingcompiler.com/reference-types-in-java/ 
+https://codingcompiler.com/constructors-in-java/ 
+https://codingcompiler.com/immutable-class-in-java/ 
+https://codingcompiler.com/immutable-objects-in-java/ 
+https://codingcompiler.com/bit-manipulation-in-java/ 
+https://codingcompiler.com/string-pool-and-heap-storage/ 
+https://codingcompiler.com/java-stringbuffer/ 
 
 CoderStea
 ===========
@@ -72,7 +73,6 @@ https://www.stackchief.com/tutorials/Java%20Generics%20and%20Type%20Inference
 
 
 
-https://www.knowledgehut.com/interview-questions/java-collection
 
 
 
@@ -125,19 +125,19 @@ https://javarevisited.blogspot.com/2011/09/javalangoutofmemoryerror-permgen-spac
 https://www.stackify.me/interview-questions/java
 https://www.javatechnotes.com/2022/01/top-20-spring-interview-question.html?m=1
 
-Java Tech Online  good content
+JavaTech Online  good content
 ===============================
-https://javatechonline.com/microservices-tutorial/
-https://javatechonline.com/spring-boot-redis-crud-example/
-https://javatechonline.com/spring-boot-tutorial/
-https://javatechonline.com/design-patterns-in-java/
-https://javatechonline.com/entity-relationship-in-jpa-hibernate-orm/
-https://javatechonline.com/java-coding-best-practices-and-standards/
-https://javatechonline.com/stream-api-in-java-8/
-https://javatechonline.com/java-functional-interface/
-https://javatechonline.com/how-to-implement-security-in-spring-boot-project/
-https://javatechonline.com/annotations-in-java/
-https://javatechonline.com/java-interview-questions-java/
+https://javatechonline.com/microservices-tutorial/ 
+https://javatechonline.com/spring-boot-redis-crud-example/ 
+https://javatechonline.com/spring-boot-tutorial/ 
+https://javatechonline.com/design-patterns-in-java/ 
+https://javatechonline.com/entity-relationship-in-jpa-hibernate-orm/ 
+https://javatechonline.com/java-coding-best-practices-and-standards/ 
+https://javatechonline.com/stream-api-in-java-8/ 
+https://javatechonline.com/java-functional-interface/ 
+https://javatechonline.com/how-to-implement-security-in-spring-boot-project/ 
+https://javatechonline.com/annotations-in-java/ 
+https://javatechonline.com/java-interview-questions-java/ 
 
 https://javatechonline.com/java-8-sorting-list-use-java8-to-make-sorting-easy/
 
@@ -147,27 +147,27 @@ https://javatechonline.com/how-to-develop-a-reactive-crud-rest-api-with-spring-w
 
 Spring Security
 ================
-https://www.toptal.com/spring/spring-security-tutorial
-https://www.javadevjournal.com/spring-security/spring-security-authentication-providers/
+https://www.toptal.com/spring/spring-security-tutorial 
+https://www.javadevjournal.com/spring-security/spring-security-authentication-providers/ 
 
 
-https://www.javacodemonk.com/morgan-stanley-java-interview-questions-e9d31020
+https://www.javacodemonk.com/morgan-stanley-java-interview-questions-e9d31020 
 
-https://justamonad.com/implementing-validators-in-spring-using-inject/
+https://justamonad.com/implementing-validators-in-spring-using-inject/ 
 
-https://coderstea.in/post/java/get-ready-to-deep-dive-java-memory-management-garbage-collector/
+https://coderstea.in/post/java/get-ready-to-deep-dive-java-memory-management-garbage-collector/ 
 
-https://www.geeksforgeeks.org/12-tips-to-optimize-java-code-performance/
+https://www.geeksforgeeks.org/12-tips-to-optimize-java-code-performance/ 
 
-https://www.betsol.com/blog/java-memory-management-for-java-virtual-machine-jvm/
+https://www.betsol.com/blog/java-memory-management-for-java-virtual-machine-jvm/ 
 
 Java Hungry
 ============
-https://javahungry.blogspot.com/2014/04/fail-fast-iterator-vs-fail-safe-iterator-difference-with-example-in-java.html
-https://javahungry.blogspot.com/2015/02/how-concurrenthashmap-works-in-java-internal-implementation.html
-https://javahungry.blogspot.com/2014/02/hashmap-vs-concurrenthashmap-java-collections-interview-question.html
-https://javahungry.blogspot.com/2013/08/hashing-how-hash-map-works-in-java-or.html
-https://javahungry.blogspot.com/2020/05/java-8-coding-and-programming-interview-questions.html
+https://javahungry.blogspot.com/2014/04/fail-fast-iterator-vs-fail-safe-iterator-difference-with-example-in-java.html 
+https://javahungry.blogspot.com/2015/02/how-concurrenthashmap-works-in-java-internal-implementation.html 
+https://javahungry.blogspot.com/2014/02/hashmap-vs-concurrenthashmap-java-collections-interview-question.html 
+https://javahungry.blogspot.com/2013/08/hashing-how-hash-map-works-in-java-or.html 
+https://javahungry.blogspot.com/2020/05/java-8-coding-and-programming-interview-questions.html 
 
 
 https://howtodoinjava.com/interview-questions/hashmap-concurrenthashmap-interview-questions/
@@ -184,20 +184,11 @@ https://blog.aigents.co/understanding-docker-architecture-486b4b5bd296
 
 https://piotrminkowski.com/2022/01/24/distributed-transactions-in-microservices-with-kafka-streams-and-spring-boot/
 
-
 https://www.linkedin.com/jobs/search/?currentJobId=2872551598&keywords=morgan%20stanley%20production%20support
-
 
 https://dzone.com/articles/java-object-size-estimation-measuring-verifying
 
 https://medium.com/swlh/understanding-java-8s-consumer-supplier-predicate-and-function-c1889b9423d
-
-
-
-https://allmncjavainterview.blogspot.com/
-https://allmncjavainterview.blogspot.com/2022/03/Basic%20Java%20Interview%20Questions%20and%20Answers_01476264896.html
-
-
 
 
 React Interview
@@ -208,7 +199,7 @@ https://github.com/sudheerj/reactjs-interview-questions
 
 Code Share
 ===========
-https://collabedit.com/wk2rf
-https://codeshare.io/nzwX63
+https://collabedit.com/wk2rf 
+https://codeshare.io/nzwX63 
 
 
