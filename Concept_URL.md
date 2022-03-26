@@ -1,3 +1,19 @@
+Concepts Understanding
+======================
+https://www.javaguides.net/
+
+https://www.journaldev.com/
+
+https://howtodoinjava.com/
+
+https://www.sourcecodeexamples.net/
+
+https://javatechonline.com
+
+https://java2blog.com/
+
+https://www.javainuse.com/home
+
 Concept Questions
 ===================
 https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/  
@@ -12,9 +28,13 @@ https://java2blog.com/core-java-interview-questions-and-answers/
 
 https://github.com/learning-zone/java-interview-questions 
 
+https://www.javaguides.net/2018/11/java-8-interview-questions-and-answers.html
+
 https://www.knowledgehut.com/interview-questions/java-collection 
 
 https://www.stackify.me/interview-questions/java
+
+https://www.javainuse.com/java/java8_intvw
 
 Design Pattern
 ==============
