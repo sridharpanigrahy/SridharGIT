@@ -12,7 +12,7 @@ https://www.sourcecodeexamples.net/
 
 https://javatechonline.com
 
-https://java2blog.com/
+https://java2blog.com/java-interview-questions/   ( good )
 
 https://www.javainuse.com/home
 
