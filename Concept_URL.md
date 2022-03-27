@@ -2,6 +2,8 @@ Concepts Understanding
 ======================
 https://www.javaguides.net/
 
+https://javagoal.com/what-is-java-language/   ( For Core Java, Java 8 )
+
 https://www.journaldev.com/
 
 https://howtodoinjava.com/
