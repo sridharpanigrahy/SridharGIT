@@ -42,8 +42,8 @@ https://www.stackify.me/interview-questions/java
 
 https://www.javainuse.com/java/java8_intvw
 
-Java2Blog URLS
-==============
+Java2Blog URLS QA ( good )
+==========================
 
 https://java2blog.com/java-interview-programs/
 
@@ -52,6 +52,30 @@ https://java2blog.com/java-interview-questions-for-5-years-experience/
 https://java2blog.com/core-java-tutorial-for-beginners-experienced/
 
 https://java2blog.com/hibernate-interview-questions-and-answers/
+
+NETJSTECH URLS QA ( good )
+==========================
+
+https://www.netjstech.com/2015/05/java-advanced-topics.html
+
+https://www.netjstech.com/p/core-java-interview-questions.html
+
+https://www.netjstech.com/p/spring-framework-tutorial.html
+
+https://www.netjstech.com/2015/05/core-java-interview-questions.html
+
+https://www.netjstech.com/2015/11/java-collections-interview-questions.html
+
+https://www.netjstech.com/2015/08/java-multi-threading-interview-questions.html
+
+https://www.netjstech.com/2016/08/string-interview-questions-java.html
+
+https://www.netjstech.com/2016/05/java-concurrency-interview-questions.html
+
+https://www.netjstech.com/2017/08/java-lambda-expressions-interview-questions.html
+
+https://www.netjstech.com/2015/08/java-exception-handling-interview-questions-answers.html
+
 
 
 Design Pattern
