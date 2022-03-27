@@ -16,6 +16,8 @@ https://java2blog.com/
 
 https://www.javainuse.com/home
 
+https://www.java67.com/2015/06/java-countdownlatch-example.html
+
 Concept Questions
 ===================
 https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/  
