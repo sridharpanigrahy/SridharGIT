@@ -30,6 +30,8 @@ https://allmncjavainterview.blogspot.com/
 
 https://java2blog.com/core-java-interview-questions-and-answers/ 
 
+https://java2blog.com/java-interview-questions/ 
+
 https://github.com/learning-zone/java-interview-questions 
 
 https://www.javaguides.net/2018/11/java-8-interview-questions-and-answers.html
@@ -39,6 +41,18 @@ https://www.knowledgehut.com/interview-questions/java-collection
 https://www.stackify.me/interview-questions/java
 
 https://www.javainuse.com/java/java8_intvw
+
+Java2Blog URLS
+==============
+
+https://java2blog.com/java-interview-programs/
+
+https://java2blog.com/java-interview-questions-for-5-years-experience/
+
+https://java2blog.com/core-java-tutorial-for-beginners-experienced/
+
+https://java2blog.com/hibernate-interview-questions-and-answers/
+
 
 Design Pattern
 ==============
