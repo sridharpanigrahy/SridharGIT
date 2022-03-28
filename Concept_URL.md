@@ -54,6 +54,8 @@ https://java2blog.com/core-java-tutorial-for-beginners-experienced/
 
 https://java2blog.com/hibernate-interview-questions-and-answers/
 
+https://java2blog.com/custom-blockingqueue-implementation-java/
+
 NETJSTECH URLS QA ( good )
 ==========================
 
