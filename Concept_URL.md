@@ -44,6 +44,7 @@ https://www.javainuse.com/java/java8_intvw
 
 Java2Blog URLS QA ( good )
 ==========================
+https://java2blog.com/category/interview/interview-questions/
 
 https://java2blog.com/java-interview-programs/
 
