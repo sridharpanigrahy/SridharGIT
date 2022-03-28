@@ -56,6 +56,8 @@ https://java2blog.com/hibernate-interview-questions-and-answers/
 
 https://java2blog.com/custom-blockingqueue-implementation-java/
 
+https://java2blog.com/how-to-create-immutable-class-in-java/
+
 NETJSTECH URLS QA ( good )
 ==========================
 
