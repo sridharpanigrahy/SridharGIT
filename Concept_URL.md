@@ -58,6 +58,8 @@ https://java2blog.com/custom-blockingqueue-implementation-java/
 
 https://java2blog.com/how-to-create-immutable-class-in-java/
 
+https://java2blog.com/hashcode-and-equals-method-in-java/
+
 NETJSTECH URLS QA ( good )
 ==========================
 
