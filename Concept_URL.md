@@ -46,6 +46,8 @@ Java2Blog URLS QA ( good )
 ==========================
 https://java2blog.com/category/interview/interview-questions/
 
+https://java2blog.com/core-java-interview-questions-and-answers/
+
 https://java2blog.com/java-interview-programs/
 
 https://java2blog.com/java-interview-questions-for-5-years-experience/
