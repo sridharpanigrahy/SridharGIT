@@ -87,6 +87,7 @@ https://www.netjstech.com/2015/08/java-exception-handling-interview-questions-an
 
 https://www.netjstech.com/2017/10/jvm-run-time-data-areas-java-memory-allocation.html
 
+https://www.netjstech.com/2015/05/exception-handling-and-method-overriding-java.html
 
 Design Pattern
 ==============
