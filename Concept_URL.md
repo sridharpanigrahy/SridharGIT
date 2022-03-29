@@ -89,6 +89,8 @@ https://www.netjstech.com/2017/10/jvm-run-time-data-areas-java-memory-allocation
 
 https://www.netjstech.com/2015/05/exception-handling-and-method-overriding-java.html
 
+https://www.netjstech.com/2018/07/how-to-sort-hashmap-in-java.html
+
 Mykong ( good for Java8/Spring boot )
 https://mkyong.com/tutorials/spring-boot-tutorials/
 
