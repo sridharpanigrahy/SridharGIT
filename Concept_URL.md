@@ -85,6 +85,7 @@ https://www.netjstech.com/2017/08/java-lambda-expressions-interview-questions.ht
 
 https://www.netjstech.com/2015/08/java-exception-handling-interview-questions-answers.html
 
+https://www.netjstech.com/2017/10/jvm-run-time-data-areas-java-memory-allocation.html
 
 
 Design Pattern
