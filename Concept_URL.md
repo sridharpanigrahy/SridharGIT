@@ -44,13 +44,15 @@ https://www.stackify.me/interview-questions/java
 
 https://www.javainuse.com/java/java8_intvw
 
-Java2Blog URLS QA ( good )
+Java2Blog URLS QA ( very good )
 ==========================
 https://java2blog.com/category/interview/interview-questions/
 
 https://java2blog.com/core-java-interview-questions-and-answers/
 
 https://java2blog.com/java-interview-programs/  ( good )
+
+https://java2blog.com/java-collections-interview-questions/  ( programs )
 
 https://java2blog.com/java-interview-questions-for-5-years-experience/
 
