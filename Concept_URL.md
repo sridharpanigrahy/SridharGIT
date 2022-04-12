@@ -66,6 +66,8 @@ https://java2blog.com/how-to-create-immutable-class-in-java/
 
 https://java2blog.com/hashcode-and-equals-method-in-java/
 
+https://java2blog.com/top-10-java-tricky-interview-questions/
+
 NETJSTECH URLS QA ( good )
 ==========================
 
