@@ -18,6 +18,8 @@ https://www.javainuse.com/home
 
 https://www.java67.com/2015/06/java-countdownlatch-example.html
 
+https://www.javatpoint.com/solid-principles-java
+
 Concept Questions
 ===================
 https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/  
