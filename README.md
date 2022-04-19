@@ -139,7 +139,7 @@ Best sites
 	- https://www.javaguides.net/2019/09/user-account-registration-and-login.html
 	- https://mkyong.com/spring-security/spring-security-form-login-using-database/
 	- https://www.javainuse.com/spring/boot_security_jdbc_authentication
-
+	- https://github.com/sermore/spring-glee-o-meter  ( example )
 	*Spring Boot and React*
 	- https://github.com/spring-guides/tut-react-and-spring-data-rest
 	- https://spring.io/guides/tutorials/react-and-spring-data-rest/
