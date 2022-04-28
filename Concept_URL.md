@@ -131,6 +131,7 @@ https://www.sourcecodeexamples.net/p/free-spring-boot-projects.html
 JavaTechOnline
 ================
 https://javatechonline.com/how-to-deploy-spring-boot-application-in-docker/
+https://javatechonline.com/how-to-implement-fault-tolerance-in-microservices-using-resilience4j/
 
 
 JavaInUse
