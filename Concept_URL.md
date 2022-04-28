@@ -89,6 +89,8 @@ https://www.netjstech.com/2016/08/string-interview-questions-java.html
 
 https://www.netjstech.com/2016/05/java-concurrency-interview-questions.html
 
+https://www.netjstech.com/p/java-concurrency-tutorial.html
+
 https://www.netjstech.com/2017/08/java-lambda-expressions-interview-questions.html
 
 https://www.netjstech.com/2015/08/java-exception-handling-interview-questions-answers.html
