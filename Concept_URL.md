@@ -108,6 +108,8 @@ Design Pattern
 ==============
 https://www.journaldev.com/1827/java-design-patterns-example-tutorial
 
+https://refactoring.guru/design-patterns/java
+
 Spring Data JPA
 ===============
 https://www.netsurfingzone.com/jpa/spring-data-jpa-interview-questions-and-answers/   ( good )
