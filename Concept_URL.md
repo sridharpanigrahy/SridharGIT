@@ -140,7 +140,10 @@ https://www.javainuse.com/spring/boot-transaction-isolation  ( good for transact
 
 https://www.javainuse.com/java/javaConcurrentHashMap  
 
+https://medium.com/art-of-coding/hash-table-vs-concurrent-hashmap-and-its-internal-working-b28fc2725bdb
+
 https://www.javainuse.com/webseries/spring-security-jwt/chap3  ( Good for spring security )
+
 https://codersite.dev/spring-boot-oauth2/ 
 
 Core Java : Coding Compiler
