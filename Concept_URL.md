@@ -110,6 +110,16 @@ https://www.journaldev.com/1827/java-design-patterns-example-tutorial
 
 https://refactoring.guru/design-patterns/java
 
+Spring Booot
+=============
+https://howtodoinjava.com/interview-questions/spring-boot-interview-questions/
+
+https://www.javainuse.com/spring/SpringBootInterviewQuestions
+
+https://www.knowledgehut.com/interview-questions/spring-boot
+
+https://www.guru99.com/spring-boot-interview-questions.html
+
 Spring Data JPA
 ===============
 https://www.netsurfingzone.com/jpa/spring-data-jpa-interview-questions-and-answers/   ( good )
