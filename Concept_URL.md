@@ -218,6 +218,8 @@ https://www.stackchief.com/tutorials/Java%20Collections%20In%20Depth
 
 https://www.stackchief.com/tutorials/Java%20Generics%20and%20Type%20Inference
 
+https://stackify.com/streams-guide-java-8/
+
 Java2Blog 
 =========
 https://java2blog.com/core-java-tutorial-for-beginners-experienced/
