@@ -297,6 +297,8 @@ JavaTech Online  good content
 ===============================
 https://javatechonline.com/microservices-tutorial/ 
 
+https://javatechonline.com/hystrix-circuit-breaker/
+
 https://javatechonline.com/spring-boot-redis-crud-example/ 
 
 https://javatechonline.com/spring-boot-tutorial/ 
