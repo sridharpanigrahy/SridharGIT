@@ -110,6 +110,8 @@ https://www.journaldev.com/1827/java-design-patterns-example-tutorial
 
 https://refactoring.guru/design-patterns/java
 
+https://javatechonline.com/java-design-patterns-java/
+
 Spring Booot
 =============
 https://howtodoinjava.com/interview-questions/spring-boot-interview-questions/
