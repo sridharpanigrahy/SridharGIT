@@ -150,6 +150,8 @@ https://javatechonline.com/how-to-implement-fault-tolerance-in-microservices-usi
 
 https://javatechonline.com/solid-principles-the-open-closed-principle/
 
+https://javatechonline.com/spring-boot-annotations-with-examples/
+
 JavaInUse
 =========
 https://www.javainuse.com/spring/boot-transaction-isolation  ( good for transaction isolation details)
