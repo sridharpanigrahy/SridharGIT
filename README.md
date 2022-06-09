@@ -311,6 +311,7 @@ Youtube Tutorial
 - [DefogTech](https://www.youtube.com/c/DefogTech/videos)
 - [JavaInUse](https://www.youtube.com/c/JavaInUse/videos)
 - [JavaGuides](https://www.youtube.com/c/JavaGuides/videos)
+- [Amigoscode](https://www.youtube.com/c/amigoscode/videos)
 
 **Daily Code Buffer**
 - [Spring Boot](https://www.youtube.com/watch?v=c3gKseNAs9w)
