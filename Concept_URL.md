@@ -391,4 +391,9 @@ Code Share
 https://collabedit.com/wk2rf 
 https://codeshare.io/nzwX63 
 
+Scalar Cheatsheet
+==================
+https://github.com/naqushab/ScalerAcademy/tree/develop/Useful/Cheatsheet
+
+
 
