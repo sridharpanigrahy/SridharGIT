@@ -22,6 +22,8 @@ https://www.javatpoint.com/solid-principles-java
 
 https://www.javatpoint.com/classloader-in-java
 
+https://beginnersbook.com/java-tutorial-for-beginners-with-examples/
+
 Concept Questions
 ===================
 https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/  
