@@ -114,6 +114,11 @@ https://refactoring.guru/design-patterns/java
 
 https://javatechonline.com/java-design-patterns-java/
 
+Data Structures
+===============
+https://www.techiedelight.com/data-structures-and-algorithms-problems/
+
+
 Spring Booot
 =============
 https://howtodoinjava.com/interview-questions/spring-boot-interview-questions/
