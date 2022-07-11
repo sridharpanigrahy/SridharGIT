@@ -14,6 +14,8 @@ https://javatechonline.com
 
 https://java2blog.com/java-interview-questions/   ( good )
 
+https://www.dineshonjava.com/  ( good )
+
 https://www.javainuse.com/home
 
 https://www.java67.com/2015/06/java-countdownlatch-example.html
