@@ -319,7 +319,8 @@ Youtube Tutorial
 - [Spring Data JPA](https://www.youtube.com/watch?v=XszpXoII9Sg&t=109s)
 - [Microservices using SpringBoot](https://www.youtube.com/watch?v=BnknNTN8icw&t=2754s)
 - [Spring Boot Logging](https://www.youtube.com/watch?v=5a65m_8n3q8&list=RDCMUC4VZwhJ4T42SVHy9QbZ5rKw&index=14)
-	
+- [Spring Security ] (https://www.youtube.com/watch?v=tWcqSIQr6Ks)	
+- 
 	*GitHub*
 	- https://github.com/dailycodebuffer/Spring-MVC-Tutorials
 	- https://github.com/shabbirdwd53
