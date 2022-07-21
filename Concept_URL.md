@@ -400,6 +400,8 @@ System Design
 =============
 https://github.com/tssovi/grokking-the-object-oriented-design-interview
 
+https://www.youtube.com/c/codeKarle/videos
+
 Dinesh Varyani - Youtube Videos
 ==================================
 Junit5 -  https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tE9xbgcz16sNbscYkrtce7
