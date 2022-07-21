@@ -276,6 +276,7 @@ https://www.callicoder.com/configuring-spring-boot-to-use-gson-instead-of-jackso
 javacodegeeks
 =============
 https://www.javacodegeeks.com/2011/04/java-generics-quick-tutorial.html
+
 https://www.javacodegeeks.com/java-interview-questions.html
 
 
@@ -295,7 +296,6 @@ https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithm
 https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/lists/DoublyLinkedList.java
 
 https://github.com/abhinavece/AlgorithmAndDataStructureInJava/tree/master/src/crackingTheCodingInterview
-
 
 
 https://javarevisited.blogspot.com/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html#axzz7I3NEtqEy
@@ -361,20 +361,27 @@ https://www.betsol.com/blog/java-memory-management-for-java-virtual-machine-jvm/
 Java Hungry
 ============
 https://javahungry.blogspot.com/2014/04/fail-fast-iterator-vs-fail-safe-iterator-difference-with-example-in-java.html 
-https://javahungry.blogspot.com/2015/02/how-concurrenthashmap-works-in-java-internal-implementation.html 
-https://javahungry.blogspot.com/2014/02/hashmap-vs-concurrenthashmap-java-collections-interview-question.html 
-https://javahungry.blogspot.com/2013/08/hashing-how-hash-map-works-in-java-or.html 
-https://javahungry.blogspot.com/2020/05/java-8-coding-and-programming-interview-questions.html 
 
+https://javahungry.blogspot.com/2015/02/how-concurrenthashmap-works-in-java-internal-implementation.html 
+
+https://javahungry.blogspot.com/2014/02/hashmap-vs-concurrenthashmap-java-collections-interview-question.html 
+
+https://javahungry.blogspot.com/2013/08/hashing-how-hash-map-works-in-java-or.html 
+
+https://javahungry.blogspot.com/2020/05/java-8-coding-and-programming-interview-questions.html 
 
 https://howtodoinjava.com/interview-questions/hashmap-concurrenthashmap-interview-questions/
 
 Medium.com
 ===========
 https://medium.com/@prabhash.code/java-memory-management-11e9e3a1fda7
+
 https://medium.com/@prabhash.code/what-is-serialization-in-java-89dc73645d80
+
 https://medium.com/@prabhash.code/stringbuffer-and-stringbuilder-41ea637e6994
+
 https://medium.com/@prabhash.code/java-generics-288be547f973
+
 https://medium.com/javarevisited/treemap-in-java-collection-framework-81b6a9795ace
 
 Docker
@@ -388,6 +395,10 @@ https://www.linkedin.com/jobs/search/?currentJobId=2872551598&keywords=morgan%20
 https://dzone.com/articles/java-object-size-estimation-measuring-verifying
 
 https://medium.com/swlh/understanding-java-8s-consumer-supplier-predicate-and-function-c1889b9423d
+
+System Design
+=============
+https://github.com/tssovi/grokking-the-object-oriented-design-interview
 
 
 Datastructure Youtube Tutorial
