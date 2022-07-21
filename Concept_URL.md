@@ -403,12 +403,17 @@ https://github.com/tssovi/grokking-the-object-oriented-design-interview
 Dinesh Varyani - Youtube Videos
 ==================================
 Junit5 -  https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tE9xbgcz16sNbscYkrtce7
+
 𝟏. 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 -https://lnkd.in/e5TDkGz
+
 𝟐. 𝐌𝐚𝐬𝐭𝐞𝐫𝐢𝐧𝐠 𝐉𝐔𝐧𝐢𝐭 𝟓 - https://lnkd.in/epApWzy
+
 𝟑. 𝐌𝐚𝐬𝐭𝐞𝐫𝐢𝐧𝐠 𝐌𝐨𝐜𝐤𝐢𝐭𝐨 - https://lnkd.in/e2w3QeD
 
 Datastructure Youtube Tutorial
 ==============================
+https://www.enjoyalgorithms.com/courses/
+
 https://www.youtube.com/c/hubberspot/videos
 
 - Programming in C++ -> (https://lnkd.in/dNT56Edb)
