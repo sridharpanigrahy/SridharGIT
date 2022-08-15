@@ -1,3 +1,11 @@
+Saga Design pattern
+===================
+https://www.vinsguru.com/orchestration-saga-pattern-with-spring-boot/
+
+https://www.vinsguru.com/choreography-saga-pattern-with-spring-boot/
+
+https://www.vinsguru.com/spring-webflux-validation/
+
 Concepts Understanding
 ======================
 https://www.javaguides.net/
