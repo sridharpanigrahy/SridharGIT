@@ -126,10 +126,6 @@ https://refactoring.guru/design-patterns/java
 
 https://javatechonline.com/java-design-patterns-java/
 
-Data Structures
-===============
-https://www.techiedelight.com/data-structures-and-algorithms-problems/
-
 
 Spring Booot
 =============
@@ -410,6 +406,8 @@ System Design
 =============
 https://www.interviewbit.com/system-design-interview-questions/
 
+https://coursehunters.online/t/educative-io-design-gurus-grokking-the-system-design-interview-part-5/584
+
 https://github.com/tssovi/grokking-the-object-oriented-design-interview
 
 https://www.youtube.com/c/codeKarle/videos
@@ -439,6 +437,7 @@ https://www.mygreatlearning.com/blog/data-structures-using-java/
 
 https://examples.javacodegeeks.com/java-data-structures-tutorial/
 
+https://www.techiedelight.com/data-structures-and-algorithms-problems/
 
 Datastructure Youtube Tutorial
 ==============================
