@@ -408,6 +408,8 @@ https://medium.com/swlh/understanding-java-8s-consumer-supplier-predicate-and-fu
 
 System Design
 =============
+https://www.interviewbit.com/system-design-interview-questions/
+
 https://github.com/tssovi/grokking-the-object-oriented-design-interview
 
 https://www.youtube.com/c/codeKarle/videos
@@ -421,6 +423,22 @@ Junit5 -  https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tE9xbgcz16sNbscYkrtc
 𝟐. 𝐌𝐚𝐬𝐭𝐞𝐫𝐢𝐧𝐠 𝐉𝐔𝐧𝐢𝐭 𝟓 - https://lnkd.in/epApWzy
 
 𝟑. 𝐌𝐚𝐬𝐭𝐞𝐫𝐢𝐧𝐠 𝐌𝐨𝐜𝐤𝐢𝐭𝐨 - https://lnkd.in/e2w3QeD
+
+DataStructure Websites
+======================
+https://java2blog.com/data-structures-java/
+
+https://www.sanfoundry.com/1000-java-algorithms-problems-programming-examples/ 
+https://www.sanfoundry.com/java-programming-examples-data-structures/ 
+https://www.sanfoundry.com/searching-algorithms-java/ 
+https://www.sanfoundry.com/sorting-algorithms-java/ 
+https://www.sanfoundry.com/tree-java/ 
+https://www.sanfoundry.com/java-programming-examples/ 
+
+https://www.mygreatlearning.com/blog/data-structures-using-java/
+
+https://examples.javacodegeeks.com/java-data-structures-tutorial/
+
 
 Datastructure Youtube Tutorial
 ==============================
