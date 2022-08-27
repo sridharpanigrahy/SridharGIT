@@ -141,6 +141,8 @@ Best sites
 	- https://www.javainuse.com/spring/boot_security_jdbc_authentication
 	- https://github.com/sermore/spring-glee-o-meter  ( example )
 	- https://www.toptal.com/spring/spring-boot-oauth2-jwt-rest-protection ( example )
+	- https://www.toptal.com/spring/spring-security-tutorial
+	
 	*Spring Boot and React*
 	- https://github.com/spring-guides/tut-react-and-spring-data-rest
 	- https://spring.io/guides/tutorials/react-and-spring-data-rest/
