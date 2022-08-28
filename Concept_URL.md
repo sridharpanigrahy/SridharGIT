@@ -353,7 +353,10 @@ https://www.toptal.com/spring/spring-security-tutorial
 
 https://www.javadevjournal.com/spring-security/spring-security-authentication-providers/ 
 
+JWT Auth : https://medium.com/dataseries/public-claims-and-how-to-validate-a-jwt-1d6c81823826#:~:text=The%20%22nbf%22%20(not%20before,containing%20a%20Numeric%20Date%20value.
 
+Others
+=======
 https://www.javacodemonk.com/morgan-stanley-java-interview-questions-e9d31020 
 
 https://justamonad.com/implementing-validators-in-spring-using-inject/ 
@@ -524,6 +527,10 @@ React Interview
 ===============
 https://github.com/sudheerj/reactjs-interview-questions
 
+Microservices Concepts
+=====================
+- 
+- 
 
 Code Share
 ===========
