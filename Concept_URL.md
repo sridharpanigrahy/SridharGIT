@@ -429,9 +429,9 @@ DataStructure Websites
 ======================
 https://java2blog.com/data-structures-java/
 
-https://www.sanfoundry.com/1000-java-algorithms-problems-programming-examples/  ( good )
+https://www.sanfoundry.com/1000-java-algorithms-problems-programming-examples/  
 
-https://www.sanfoundry.com/java-programming-examples-data-structures/ 
+https://www.sanfoundry.com/java-programming-examples-data-structures/  ( good )
 
 https://www.sanfoundry.com/searching-algorithms-java/ 
 
