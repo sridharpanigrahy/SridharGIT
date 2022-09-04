@@ -393,6 +393,14 @@ https://medium.com/@prabhash.code/java-generics-288be547f973
 
 https://medium.com/javarevisited/treemap-in-java-collection-framework-81b6a9795ace
 
+Medium.com microservices
+========================
+https://medium.com/javarevisited/microservices-metrics-and-health-monitoring-66165fd3ef8
+
+https://github.com/dtimchenko/custom-microservices-project
+
+https://medium.com/javarevisited/what-is-service-discovery-in-microservices-15a2333bc1db
+
 Docker
 ======
 https://blog.aigents.co/understanding-docker-architecture-486b4b5bd296
