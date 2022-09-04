@@ -401,6 +401,10 @@ https://github.com/dtimchenko/custom-microservices-project
 
 https://medium.com/javarevisited/what-is-service-discovery-in-microservices-15a2333bc1db
 
+https://medium.com/@royer.robin/no-downtime-sql-schema-migration-in-distributed-systems-d4f12485d622
+
+https://medium.com/technology-learning/how-we-solved-authentication-and-authorization-in-our-microservice-architecture-994539d1b6e6
+
 Docker
 ======
 https://blog.aigents.co/understanding-docker-architecture-486b4b5bd296
