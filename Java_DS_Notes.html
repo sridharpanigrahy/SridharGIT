@@ -1,0 +1,499 @@
+<h2> Arrays Programs </h2>
+<b> Move zero to end of Array</b>
+<pre>
+void moveZerosToEnd(int arr[])
+{
+    int k =0;
+    for(int i = 0; i<= arr.length-1; i++)
+    {
+        if(arr[i] !=0) 
+		{
+            arr[k]  = arr[i];
+            k++;
+        }
+    }
+    while (k < arr.length)
+    {
+        arr[k] = 0;
+        k++;
+    }
+}
+</pre>
+
+<b> Move zero to begining of Array</b>
+<pre>
+void moveZerosToBegin(int arr[])
+{
+    int k = arr.length-1;
+    for(int i = arr.length-1; i>= 0; i--)
+    {
+        if(arr[i] !=0) 
+		{
+            arr[k]  = arr[i];
+            k--;
+        }
+    }
+    while (k >= 0)
+    {
+        arr[k] = 0;
+        k--;
+    }
+}
+</pre>
+
+<b> Merge two sorted Arrays</b>
+<pre>
+int[] mergedTwoSortedArray(int arr1[], int arr2[])
+{
+    int outArr[] = new int[arr1.length + arr2.length];
+    int itr1 = 0;
+    int itr2 = 0;
+    int outItr = 0;
+    while (itr1 < arr1.length && itr2 < arr2.length)
+    {
+        if(arr1[itr1] < arr2[itr2])
+        {
+            outArr[outItr] = arr1[itr1];
+            itr1++;
+        }
+        else
+        {
+            outArr[outItr] = arr2[itr2];
+            itr2++;
+        }
+        outItr++;
+    }
+
+    while(itr1 < arr1.length &&  outItr < (arr1.length + arr2.length))
+    {
+        outArr[outItr] = arr1[itr1];
+        outItr++;
+    }
+
+    while(itr2 < arr2.length &&  outItr < (arr1.length + arr2.length))
+    {
+        outArr[outItr] = arr2[itr2];
+        outItr++;
+    }
+
+    return outArr;
+}
+</pre>
+
+<b> Sort array having values 0, 1, 2 in otimized way</b>
+<pre>
+void sortArrayHavingValues012(int arr[])
+{
+    int zeroCnt = 0;
+    int oneCnt = 0;
+    int twoCnt = 0;
+
+    for(int i = 0; i< arr.length; i++)
+    {
+        if(arr[i] == 0)
+            zeroCnt++;
+
+        if(arr[i] == 1)
+            oneCnt++;
+
+        if(arr[i] == 2)
+            twoCnt++;
+    }
+
+    for(int i = 0; i< arr.length; i++)
+    {
+        if(zeroCnt> 0)
+        {
+            arr[i] = 0;
+            zeroCnt--;
+        }
+        else if(oneCnt> 0)
+        {
+            arr[i] = 1;
+            oneCnt--;
+
+        }
+        else if(twoCnt > 0)
+        {
+                arr[i] = 2;
+                twoCnt--;
+        }
+    }
+}
+</pre>
+
+<h2> Linked List programs </h2>
+
+<b> Merge two sorted Linked List</b>
+<pre>
+public ListNode mergeTwoLists(ListNode l1, ListNode l2) 
+{
+        if(l1 == null) return l2;
+        else if(l2 == null) return l1;
+        
+        ListNode dummy = new ListNode(0);
+        ListNode curr = dummy;
+        
+        while(l1 != null && l2!= null)
+        {
+            if(l1.val <= l2.val)
+            {
+                curr.next = l1;
+                l1 = l1.next;
+            }
+            else 
+            {
+                curr.next = l2;
+                l2 = l2.next;
+            }
+            curr = curr.next;
+        }
+        if(l1 != null)
+            curr.next = l1;
+        if(l2 != null)
+            curr.next = l2;
+        return dummy.next;
+   }
+ </pre>
+ 
+<b> Reverse of Linked List; given head</b>
+<pre>
+ LinkedList.Node reverseLinkedList(LinkedList.Node head)
+ {
+    LinkedList.Node prev = null;
+    LinkedList.Node current = head;
+    LinkedList.Node next = null;
+    while (current != null) 
+    {
+        next = current.next;
+        current.next = prev;
+        prev = current;
+        current = next;
+    }
+    // head = prev;  // if you want to override the head of Linkedlist so that original linked list will reverese.
+    return prev;
+ }
+ </pre>
+ 
+
+<b>Addding digits of two Linked List and storing result in 3rd Linked List </b>
+<pre>
+public static LinkedList<Integer> addTwoLinkedList(LinkedList.Node head1, LinkedList.Node head2 )
+{
+    LinkedList.Node p1 = head1;
+    LinkedList.Node p2 = head2;
+    LinkedList<Integer> resultList = new LinkedList<>();
+    int remainder = 0;
+    int divisor = 0;
+
+    while (p1 != null || p2 != null) 
+    {
+        int p1Value = p1 != null ? p1.getData().intValue() : 0;
+        int p2Value = p2 != null ? p2.getData().intValue() : 0;
+
+        int result = p1Value + p2Value + divisor;
+        
+        remainder = result % 10;
+        divisor = result / 10;
+
+        resultList.insert(remainder, INSERT_TYPE.FIRST);
+
+        if (p1 != null)
+            p1 = p1.next;
+
+        if (p2 != null)
+            p2 = p2.next;
+    }
+
+    if(divisor > 0)
+    {
+        resultList.insert(divisor, INSERT_TYPE.FIRST);
+    }
+    return resultList;
+}
+ </pre>
+ 
+<b>To perform Validation of Parenthesis </b>
+<pre>
+public boolean isValid(String s) 
+{
+    Stack<Character> stack = new Stack<Character>();
+    for (char c : s.toCharArray()) 
+    {
+        if (c == '(')
+            stack.push(')');
+        else if (c == '{')
+            stack.push('}');
+        else if (c == '[')
+            stack.push(']');
+        else if (stack.isEmpty() || stack.pop() != c)
+            return false;
+    }
+    return stack.isEmpty();
+}
+ </pre>
+ 
+<b>Queue implementation using Stack</b>
+<pre>
+import java.util.*;
+public class QueueUsingStackTest 
+{
+   private Stack stack1 = new Stack<>();
+   private Stack stack2 = new Stack<>();
+   
+   public void enqueue(int element) 
+   {
+      stack1.push(element);
+      System.out.println(element + " inserted");
+   }
+   
+   public void dequeue() 
+   {
+      if(stack2.isEmpty()) 
+      {
+         while (!stack1.isEmpty()) 
+         {
+            stack2.push(stack1.pop());
+         }
+      }
+      System.out.println(stack2.pop() + " removed");
+   }
+   public static void main(String args[]) 
+   {
+      QueueUsingStackTest test = new QueueUsingStackTest();
+      test.enqueue(10);
+      test.enqueue(50);
+      test.enqueue(100);
+      test.dequeue();
+   }
+}
+ </pre>
+<b>Stack Implementation using 2 Queues </b>
+<pre>
+Solution - 1
+--------------
+
+import java.util.ArrayDeque;
+import java.util.Queue;
+ 
+// Implement stack using two queues
+class Stack<T>
+{
+    Queue<T> q1, q2;
+ 
+    // Constructor
+    public Stack()
+    {
+        q1 = new ArrayDeque<>();
+        q2 = new ArrayDeque<>();
+    }
+ 
+    // Insert an item into the stack
+    void add(T data)
+    {
+        // Move all elements from the first queue to the second queue
+        while (!q1.isEmpty())
+        {
+            q2.add(q1.peek());
+            q1.poll();
+        }
+ 
+        // Push the given item into the first queue
+        q1.add(data);
+ 
+        // Move all elements back to the first queue from the second queue
+        while (!q2.isEmpty())
+        {
+            q1.add(q2.peek());
+            q2.poll();
+        }
+    }
+ 
+    // Remove the top item from the stack
+    public T poll()
+    {
+        // if the first queue is empty
+        if (q1.isEmpty())
+        {
+            System.out.println("Underflow!!");
+            System.exit(0);
+        }
+ 
+        // return the front item from the first queue
+        T front = q1.peek();
+        q1.poll();
+ 
+        return front;
+    }
+}
+ 
+Solution - 2
+-------------
+import java.util.*;
+  
+class Stack 
+{
+    // Two inbuilt queues
+    Queue<Integer> q1 = new LinkedList<Integer>();
+    Queue<Integer> q2 = new LinkedList<Integer>();
+  
+    // To maintain current number of elements
+    int curr_size;
+  
+    Stack()
+    {
+        curr_size = 0;
+    }
+  
+    void push(int x)
+    {
+        curr_size++;
+  
+        // Push x first in empty q2
+        q2.add(x);
+  
+        // Push all the remaining elements in q1 to q2.
+        while (!q1.isEmpty()) 
+        {
+            q2.add(q1.peek());
+            q1.remove();
+        }
+  
+        // swap the names of two queues
+        Queue<Integer> q = q1;
+        q1 = q2;
+        q2 = q;
+    }
+  
+    void pop()
+    {
+        if (q1.isEmpty())
+            return;
+        q1.remove();
+        curr_size--;
+    }
+  
+    int top()
+    {
+        if (q1.isEmpty())
+            return -1;
+        return q1.peek();
+    }  
+}
+ </pre>
+ 
+sort HashMap by its values
+==========================
+public class HashMapMain {
+ 
+public static void main(String args[]) {
+  // HashMap with Country name as key and capital as value
+  // HashMap stores elements in key value pairs
+  HashMap<String, String> countryCapitalMap = new HashMap<String, String>();
+ 
+  countryCapitalMap.put("Japan", "Tokyo");
+  countryCapitalMap.put("France", "Paris");
+  countryCapitalMap.put("Russia", "Moscow");
+  countryCapitalMap.put("India", "Delhi");
+ 
+  System.out.println("-----------------------------");
+  // Iterating HashMap Using keySet() and for each loop
+  System.out.println("Before Sorting");
+  System.out.println("-----------------------------");
+  for (String countryKey : countryCapitalMap.keySet()) {
+   System.out.println("Country:" + countryKey + " and  Capital:" + countryCapitalMap.get(countryKey));
+ 
+  }
+ 
+  Set<Entry<String, String>> countryCapitalEntrySet=countryCapitalMap.entrySet();
+ 
+  List<Entry<String, String>> entryList=new ArrayList<Entry<String, String>>(countryCapitalEntrySet);
+ 
+  Collections.sort(entryList,new Comparator<Entry<String,String>>() {
+ 
+   @Override
+   public int compare(Entry<String,String> o1, Entry<String,String> o2) {
+    return o1.getValue().compareTo(o2.getValue());
+   }
+  });
+  System.out.println("-----------------------------");
+ 
+  // Using LinkedHashMop to keep entries in sorted order
+  LinkedHashMap<String,String> sortedHashMap=new LinkedHashMap<String,String>();
+  for (Entry<String,String> entry:entryList) {
+   sortedHashMap.put(entry.getKey(), entry.getValue());
+  }
+ 
+  System.out.println("After Sorting");
+  System.out.println("-----------------------------");
+  // Iterating sortedHashMap Using keySet() and for each loop
+ 
+  for (String countryKey : sortedHashMap.keySet()) {
+   System.out.println("Country:" + countryKey + " and  Capital:" + sortedHashMap.get(countryKey));
+ 
+  }
+}
+}
+
+// Java program to print all permutations of a 
+// given string. 
+public class Permutation 
+{ 
+    public static void main(String[] args) 
+    { 
+        String str = "ABC"; 
+        int n = str.length(); 
+        Permutation permutation = new Permutation(); 
+        permutation.permute(str, 0, n-1); 
+    } 
+  
+    /** 
+    * permutation function 
+    * @param str string to calculate permutation for 
+    * @param l starting index 
+    * @param r end index 
+    */
+    private void permute(String str, int l, int r) 
+    { 
+        if (l == r) 
+            System.out.println(str); 
+        else
+        { 
+            for (int i = l; i <= r; i++) 
+            { 
+                str = swap(str,l,i); 
+                permute(str, l+1, r); 
+                str = swap(str,l,i); 
+            } 
+        } 
+    } 
+  
+    /** 
+    * Swap Characters at position 
+    * @param a string value 
+    * @param i position 1 
+    * @param j position 2 
+    * @return swapped string 
+    */
+    public String swap(String a, int i, int j) 
+    { 
+        char temp; 
+        char[] charArray = a.toCharArray(); 
+        temp = charArray[i] ; 
+        charArray[i] = charArray[j]; 
+        charArray[j] = temp; 
+        return String.valueOf(charArray); 
+    } 
+  
+} 
+  
+  
+  SELECT * FROM Employee WHERE sal = 
+         (
+            SELECT MIN(sal) FROM Employee 
+            WHERE  sal IN (
+                                 SELECT DISTINCT TOP N
+                                     sal FROM Employee 
+                                         ORDER BY sal DESC
+                             )
+        )
