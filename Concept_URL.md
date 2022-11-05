@@ -22,6 +22,8 @@ https://javatechonline.com
 
 https://java2blog.com/java-interview-questions/   ( good )
 
+https://java2blog.com/java-coding-interview-questions/ ( coding questions )
+
 https://www.dineshonjava.com/  ( good )
 
 https://www.javainuse.com/home
