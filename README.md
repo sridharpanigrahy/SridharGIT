@@ -324,6 +324,10 @@ Youtube Tutorial
 - [JavaGuides](https://www.youtube.com/c/JavaGuides/videos)
 - [Amigoscode](https://www.youtube.com/c/amigoscode/videos)
 
+**CodeDecode**
+- [OAuth](https://www.youtube.com/watch?v=udTU4kmii8A)
+- [TransactionMgmt](https://www.youtube.com/watch?v=b7Pev6i8fso)
+
 **Daily Code Buffer**
 - [Spring Boot](https://www.youtube.com/watch?v=c3gKseNAs9w)
 - [Spring Data JPA](https://www.youtube.com/watch?v=XszpXoII9Sg&t=109s)
